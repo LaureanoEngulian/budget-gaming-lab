@@ -1,67 +1,43 @@
 ---
-title: "Best Steam Games Under $10 (2026)"
+title: "Mejores Juegos de Steam por menos de 10€ (2026)"
 date: 2026-07-26
 draft: false
-summary: "Great games don't have to cost $70. These Steam games under $10 deliver incredible value."
+summary: "Juegos increíbles que cuestan menos que un menú. Los mejores juegos de Steam económicos."
 categories:
-    - "Games"
+    - "Juegos"
 tags:
     - "Steam"
-    - "cheap games"
-    - "under $10"
+    - "juegos baratos"
+    - "PC"
 ---
 
-Some of the best gaming experiences cost less than a pizza. Here are the best Steam games under $10.
-
-## Quick Comparison
-
-| Game | Price | Genre | Playtime |
-|------|-------|-------|----------|
-| Vampire Survivors | ~$5 | Roguelite | 50+ hours |
-| Stardew Valley | ~$8 | Farming sim | 100+ hours |
-| Hollow Knight | ~$7.50 (sale) | Metroidvania | 40+ hours |
-| Terraria | ~$5 | Sandbox | 200+ hours |
-| The Binding of Isaac | ~$5 | Roguelike | 100+ hours |
+| Juego | Precio | Género | Horas de diversión |
+|-------|--------|---------|-------------------|
+| Vampire Survivors | ~5€ | Roguelite | 50+ horas |
+| Stardew Valley | ~8€ | Simulación | 100+ horas |
+| Hollow Knight | ~7.50€ (oferta) | Metroidvania | 40+ horas |
+| Terraria | ~5€ | Sandbox | 200+ horas |
 
 ## 1. Vampire Survivors
 
-- **Price:** ~$5
-- **Genre:** Roguelite survival
-- **Hours of fun:** 50+
-- **Pros:** Addictive gameplay, tons of unlocks
-- **Cons:** Simple graphics
+- **Precio:** ~5€
+- **Horas de diversión:** 50+
+- **Ventajas:** Adictivo, muchos desbloqueables
+- **Desventajas:** Gráficos simples
 
-The best $5 you'll ever spend on gaming. Simple concept, infinite replayability.
-
-[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
+El mejor juego por 5€ que puedes comprar. Concepto simple, diversión infinita.
 
 ## 2. Stardew Valley
 
-- **Price:** ~$8 (often on sale for $5)
-- **Genre:** Farming sim / RPG
-- **Hours of fun:** 100+
-- **Pros:** Relaxing, deep, multiplayer
-- **Cons:** Can be overwhelming at first
+- **Precio:** ~8€
+- **Horas de diversión:** 100+
+- **Ventajas:** Relajante, profundo, multijugador
 
-Harvest Moon meets RPG. Endless content from a single developer.
+Harvest Moon se encuentra con RPG. Creado por un solo desarrollador.
 
-[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
+## Veredicto
 
-## 3. Hollow Knight
-
-- **Price:** $15 (wait for sale, ~$7.50)
-- **Genre:** Metroidvania
-- **Hours of fun:** 40+
-- **Pros:** Beautiful art, tight controls, massive world
-- **Cons:** Difficult, can get lost
-
-Best metroidvania ever made. Watch for sales.
-
-[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
-
-## Verdict
-
-**Best value:** Vampire Survivors.
-**Most relaxing:** Stardew Valley.
-**Best exploration:** Terraria.
+**Mejor calidad-precio:** Vampire Survivors.
+**Más relajante:** Stardew Valley.
+**Mejor exploración:** Terraria.
 

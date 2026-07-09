@@ -1,5 +1,5 @@
 baseURL: https://budget-gaming-lab.pages.dev
-languageCode: en-us
+locale: en-US
 title: "Budget Gaming Lab"
 theme: PaperMod
 

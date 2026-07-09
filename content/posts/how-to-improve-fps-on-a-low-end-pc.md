@@ -1,61 +1,55 @@
 ---
-title: "How to Improve FPS on a Low-End PC (2026)"
+title: "Cómo Mejorar los FPS en un PC Gama Baja (2026)"
 date: 2026-08-01
 draft: false
-summary: "Boost your gaming performance on a budget PC. These tips and tricks will get you more FPS without spending money."
+summary: "Aumenta el rendimiento en juegos sin gastar dinero. Trucos y ajustes para más FPS en PC económicos."
 categories:
-    - "Guides"
+    - "Guías"
 tags:
-    - "FPS boost"
-    - "low-end PC"
-    - "optimization"
+    - "mejorar FPS"
+    - "PC gama baja"
+    - "optimización"
 ---
 
-You don't need a new PC to get better performance. Here are proven ways to boost FPS on a budget machine.
+No necesitas un PC nuevo para mejorar tu rendimiento en juegos.
 
-## Software Tweaks (Free)
+## Ajustes de Software (Gratis)
 
-### 1. Lower In-Game Settings
-- **Resolution:** Drop to 720p or 900p
-- **Shadows:** Off or Low
-- **Textures:** Medium (VRAM dependent)
-- **Anti-aliasing:** Off or FXAA
+### 1. Bajar ajustes del juego
+- **Resolución:** Baja a 720p o 900p
+- **Sombras:** Off o baja
+- **Texturas:** Media (depende de VRAM)
+- **Antialiasing:** Off o FXAA
 
-### 2. Windows Optimization
-- Enable Game Mode (Settings > Gaming)
-- Turn off hardware acceleration in Discord, Chrome
-- Disable startup programs (Task Manager > Startup)
-- Set power plan to High Performance
+### 2. Optimizar Windows
+- Activa el Modo Juego (Configuración > Juegos)
+- Desactiva la aceleración por hardware en Discord, Chrome
+- Desactiva programas de inicio (Gestor de tareas > Inicio)
+- Plan de energía: Alto rendimiento
 
-### 3. GPU Settings
-- **NVIDIA:** Control Panel > Manage 3D Settings > Prefer Maximum Performance
-- **AMD:** Adrenalin > Gaming > Graphics Profile > Performance
+### 3. Configuración de GPU
+- **NVIDIA:** Panel de control > Administrar configuración 3D > Rendimiento máximo
+- **AMD:** Adrenalin > Juegos > Perfil gráfico > Rendimiento
 
-### 4. Use FSR/DLSS/XeSS
-- AMD FSR works on ANY GPU
-- DLSS for NVIDIA RTX cards
-- Intel XeSS for Arc GPUs
-- Set to Performance mode for biggest FPS gain
+### 4. Usa FSR/DLSS/XeSS
+- AMD FSR funciona en CUALQUIER GPU
+- DLSS para NVIDIA RTX
+- Ponlo en modo Rendimiento para la mayor ganancia de FPS
 
-## Performance Per Dollar Upgrades
+## Mejoras por Poco Dinero
 
-| Upgrade | Cost | FPS Gain |
-|---------|------|----------|
-| More RAM (8GB to 16GB) | ~$35 | 10-30% |
-| SSD (if on HDD) | ~$25 | 5-15% |
-| Used GTX 1660 Super | ~$120 | 50-100% |
-| RX 6600 | ~$200 | 100-200% |
+| Mejora | Coste | Ganancia FPS |
+|--------|-------|-------------|
+| Más RAM (8GB a 16GB) | ~35€ | 10-30% |
+| SSD (si tienes HDD) | ~25€ | 5-15% |
+| GTX 1660 Super (usada) | ~120€ | 50-100% |
+| RX 6600 | ~200€ | 100-200% |
 
-## Best Settings for Popular Games
+## Mejores Ajustes por Juego
 
-- **Valorant / CS2:** All low, 75% render scale
-- **Fortnite:** Performance Mode, all low, 100% 3D res
-- **Apex:** All low, TSAA, 100% model detail
-- **Warzone:** Low textures, normal filtering, off shadows
+- **Valorant / CS2:** Todo bajo, 75% escala de renderizado
+- **Fortnite:** Modo Rendimiento, todo bajo
+- **Apex:** Todo bajo, TSAA
 
-## Free FPS Software
-- **Lossless Scaling ($7 on Steam):** Frame generation for any game
-- **MSI Afterburner:** Undervolt GPU = better temps = better boost
-
-The best part: most of these are completely free. Try them before spending anything on upgrades.
+Lo mejor: la mayoría es gratis. Pruébalo antes de gastar en mejoras.
 

@@ -1,56 +1,64 @@
 ---
-title: "Budget Gaming Setup Ideas Under $500 (Complete) (2026)"
+title: "Setup Gaming Completo por menos de 500€ (2026)"
 date: 2026-08-06
 draft: false
-summary: "Complete budget gaming setup for under $500 including PC, monitor, mouse, keyboard, and headset."
+summary: "Setup gaming completo por menos de 500€ incluyendo PC, monitor, ratón, teclado y auriculares."
 categories:
     - "Setups"
 tags:
-    - "gaming setup"
-    - "budget setup"
-    - "complete setup"
+    - "setup gaming"
+    - "completo"
+    - "económico"
 ---
 
-Want a complete gaming setup for under $500? Here's exactly what to buy.
+## Setup Completo por 500€
 
-## The Complete $500 Setup
+| Componente | Producto | Precio |
+|-----------|----------|--------|
+| PC | Dell Optiplex usado + GTX 1660 Super | ~250€ |
+| Monitor | Sceptre E248B 165Hz | ~140€ |
+| Ratón | Logitech G203 | ~35€ |
+| Teclado | Redragon K552 | ~35€ |
+| Auricular | HyperX Cloud Stinger | ~50€ |
+| Alfombrilla | SteelSeries QcK | ~10€ |
+| **Total** | | **~520€** |
 
-| Component | Product | Price |
-|-----------|---------|-------|
-| PC | Used Dell Optiplex + GTX 1660 Super | ~$250 |
-| Monitor | Sceptre E248B 165Hz | ~$140 |
-| Mouse | Logitech G203 | ~$35 |
-| Keyboard | Redragon K552 | ~$35 |
-| Headset | HyperX Cloud Stinger | ~$50 |
-| Mouse Pad | SteelSeries QcK | ~$10 |
-| **Total** | | **~$520** |
+## Alternativa: Consola + Monitor
 
-## PC Build ($250)
+| Componente | Precio |
+|-----------|--------|
+| Xbox Series S | ~200€ |
+| Monitor AOC 24G2 | ~180€ |
+| Auricular HyperX Cloud Stinger | ~50€ |
+| **Total** | **~430€** |
 
-- Used Dell Optiplex with i5-8500: ~$150
-- Add GTX 1660 Super (used): ~$100
-- Add SSD if needed: ~$25
+## El Setup de Escritorio
 
-This runs Fortnite, Valorant, Apex, and most esports titles at 100+ FPS.
+- **Mesa:** IKEA LINNMON (50€)
+- **Silla:** Hbada E1 (150€ -- opcional)
+- **Iluminación:** Tira Govee RGB (25€)
 
-## Alternative: Console + Monitor ($500)
+## Veredicto
 
-| Component | Product | Price |
-|-----------|---------|-------|
-| Console | Xbox Series S | ~$200 |
-| Monitor | AOC 24G2 144Hz IPS | ~$180 |
-| Headset | HyperX Cloud Stinger | ~$50 |
-| Controller | Included | $0 |
-| Game Pass | 3 months | ~$35 |
-| **Total** | | **~$465** |
+Puedes tener un setup gaming completamente funcional por menos de 500€. Empieza con el PC o la consola y ve mejorando con el tiempo.
 
-## The Desk Setup
 
-- **Desk:** IKEA LINNMON ($50)
-- **Chair:** Hbada E1 ($150) — optional, use any chair to start
-- **Lighting:** Govee RGB strip ($25)
+## Enlaces de Compra
 
-## Verdict
 
-You can get a fully functional gaming setup for under $500 that plays modern games. Start with the PC or console and upgrade over time.
+[![Logitech G203](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+g203&tag=laureanoeng-21)
+[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g203&tag=laureanoeng-21)
+
+
+[![Redragon K552](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=redragon+k552&tag=laureanoeng-21)
+[**Ver en Amazon →**](https://www.amazon.es/s?k=redragon+k552&tag=laureanoeng-21)
+
+
+[![HyperX Cloud Stinger](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
+[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
+
+
+[![AOC 24G2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
+[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
+
 

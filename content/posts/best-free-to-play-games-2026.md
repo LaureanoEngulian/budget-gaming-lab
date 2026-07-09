@@ -1,59 +1,54 @@
 ---
-title: "Best Free to Play Games (2026)"
+title: "Mejores Juegos Gratis para PC (2026)"
 date: 2026-07-25
 draft: false
-summary: "The best free games you can play right now without spending a cent."
+summary: "Los mejores juegos gratuitos que puedes jugar ahora mismo sin gastar un céntimo."
 categories:
-    - "Games"
+    - "Juegos"
 tags:
-    - "free games"
+    - "juegos gratis"
     - "F2P"
-    - "gaming on a budget"
+    - "PC"
 ---
 
-Gaming doesn't have to be expensive. These are the best free to play games available in 2026.
+## Comparativa Rápida
 
-## Quick Comparison
-
-| Game | Genre | Platform | Best For |
-|------|-------|----------|----------|
-| Marvel Rivals | Hero shooter | PC, Console | Competitive team play |
-| Fortnite | Battle Royale | All | Casual + competitive |
-| Genshin Impact | Action RPG | All | Open world, exploration |
-| Warframe | Third-person shooter | All | Co-op, grinding |
+| Juego | Género | Plataforma |
+|-------|---------|------------|
+| Marvel Rivals | Hero shooter | PC, Consola |
+| Fortnite | Battle Royale | Todas |
+| Genshin Impact | ARPG | PC, Móvil, Consola |
+| Warframe | TPS cooperativo | Todas |
+| Path of Exile 2 | ARPG | PC, Consola |
 
 ## 1. Marvel Rivals
 
-- **Genre:** Hero Shooter
-- **Platform:** PC, PS5, Xbox
-- **Pros:** Fast-paced, great hero designs, free cosmetics available
-- **Cons:** Can be grindy
+- **Género:** Hero Shooter
+- **Plataforma:** PC, PS5, Xbox
+- **Ventajas:** 33 personajes, actualizaciones constantes, gratis
 
-The breakout F2P hit. 33 characters at launch and constantly updated.
-
-[Download for free →](https://marvelrivals.com)
+El F2P del momento. Competitivo, colorido y totalmente gratuito.
 
 ## 2. Fortnite
 
-- **Genre:** Battle Royale
-- **Platform:** Everything
-- **Pros:** Constant updates, creative mode, zero build option
-- **Cons:** Crossovers can be overwhelming
+- **Género:** Battle Royale
+- **Plataforma:** Todas
+- **Ventajas:** Actualizaciones constantes, modo Zero Build, gratuito
 
-Still the king of free to play. Runs on almost anything.
+El rey de los juegos gratis. Funciona en cualquier dispositivo.
 
 ## 3. Genshin Impact
 
-- **Genre:** Open World Action RPG
-- **Platform:** PC, Mobile, Console
-- **Pros:** Beautiful world, tons of content, co-op
-- **Cons:** Gacha system, grindy
+- **Género:** Mundo abierto ARPG
+- **Plataforma:** PC, Móvil, Consola
+- **Ventajas:** Mundo precioso, cientos de horas de contenido
+- **Desventajas:** Gacha
 
-Hundreds of hours of free content. Gacha is optional.
+Cientos de horas de contenido gratis de calidad triple A.
 
-## Verdict
+## Veredicto
 
-**Best competitive:** Marvel Rivals.
-**Best casual:** Fortnite.
-**Best solo experience:** Genshin Impact.
+**Mejor competitivo:** Marvel Rivals.
+**Mejor casual:** Fortnite.
+**Mejor para un jugador:** Genshin Impact.
 

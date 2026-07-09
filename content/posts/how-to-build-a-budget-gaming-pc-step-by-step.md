@@ -1,75 +1,85 @@
 ---
-title: "How to Build a Budget Gaming PC Step by Step (2026)"
+title: "Cómo Montar un PC Gaming Paso a Paso (2026)"
 date: 2026-07-29
 draft: false
-summary: "Complete beginner's guide to building your own gaming PC. Tools, parts, and detailed instructions."
+summary: "Guía completa para principiantes sobre cómo montar tu propio PC gaming. Herramientas, piezas e instrucciones detalladas."
 categories:
-    - "Guides"
+    - "Guías"
 tags:
-    - "PC build"
-    - "guide"
-    - "beginner"
+    - "montar PC"
+    - "guía"
+    - "principiantes"
 ---
 
-Building your first gaming PC is easier than you think. Follow this step-by-step guide.
+## Lo que necesitas
 
-## What You'll Need
+- **Herramientas:** Destornillador Phillips #2, bridas
+- **Piezas:** CPU, GPU, placa base, RAM, disco, fuente, caja
+- **Tiempo:** 2-3 horas
 
-- **Tools:** Phillips #2 screwdriver, cable ties, zip ties
-- **Parts:** CPU, GPU, motherboard, RAM, storage, PSU, case
-- **Time:** 2-3 hours
+## Paso 1: Instalar la CPU
 
-## Step 1: CPU Installation
+1. Abre la palanca del zócalo de la CPU
+2. Alinea el triángulo dorado de la CPU con el del zócalo
+3. Coloca la CPU suavemente (sin forzar)
+4. Cierra la palanca
 
-1. Open the CPU socket lever
-2. Align the gold triangle on the CPU with the triangle on the socket
-3. Gently drop the CPU in (no force needed)
-4. Close the lever
+## Paso 2: Instalar la RAM
 
-## Step 2: RAM Installation
+1. Abre los clips de las ranuras RAM
+2. Alinea la muesca del stick de RAM
+3. Presiona firmemente hasta que ambos clips hagan clic
 
-1. Open the RAM slot clips
-2. Align the notch in the RAM stick
-3. Push firmly until both clips click
+## Paso 3: Instalar la Placa Base
 
-## Step 3: Motherboard Installation
+1. Coloca el escudo I/O en la caja
+2. Atornilla los separadores donde coincidan los tornillos de la placa
+3. Coloca la placa y atorníllala
 
-1. Install the I/O shield in the case
-2. Screw in standoffs where the motherboard screws align
-3. Place motherboard and screw in
+## Paso 4: Instalar la Fuente
 
-## Step 4: PSU Installation
+1. Monta la fuente con el ventilador hacia abajo
+2. Pasa el cable de alimentación de la CPU por detrás
+3. Pasa el cable de 24 pines de la placa
 
-1. Mount PSU fan-side down (or up for vented cases)
-2. Route CPU power cable behind motherboard tray
-3. Route 24-pin motherboard power
+## Paso 5: Instalar la GPU
 
-## Step 5: GPU Installation
+1. Retira las tapas de las ranuras PCIe de la caja
+2. Inserta la GPU en la ranura PCIe x16 superior
+3. Atornilla al soporte de la caja
+4. Conecta los cables PCIe de alimentación
 
-1. Remove PCIe slot covers on the case
-2. Push GPU into the top PCIe x16 slot
-3. Screw into the case bracket
-4. Connect PCIe power cables
+## Paso 6: Gestión de Cables
 
-## Step 6: Cable Management
+1. Pasa los cables por detrás de la bandeja de la placa
+2. Usa bridas para fijarlos
+3. Deja solo el cable expuesto necesario para alcanzar los componentes
 
-1. Route cables behind the motherboard tray
-2. Use zip ties to secure them
-3. Only leave enough cable exposed to reach components
+## Paso 7: Primer Encendido
 
-## Step 7: First Boot
+1. Conecta el monitor a la GPU (no a la placa base)
+2. Enciende el interruptor de la fuente
+3. Presiona el botón de encendido
+4. Entra en la BIOS (normalmente Supr o F2)
+5. Instala Windows desde un USB
 
-1. Connect monitor to GPU (not motherboard)
-2. Turn on PSU switch
-3. Press power button
-4. Enter BIOS (usually Delete or F2)
-5. Install Windows from USB
+## Solución de Problemas
 
-## Troubleshooting
+- **Sin energía:** Revisa el interruptor de la fuente y los conectores del panel frontal
+- **Sin imagen:** Verifica que la GPU esté bien insertada y el monitor conectado a ella
+- **Bucle de inicio:** Vuelve a colocar la RAM, limpia la CMOS
 
-- **No power:** Check PSU switch, front panel connectors
-- **No display:** Check GPU is fully seated, monitor connected to GPU
-- **Boot loop:** Reseat RAM, clear CMOS
+Montar un PC es 90% confianza. Tómate tu tiempo y disfruta del proceso.
 
-Building a PC is 90% confidence. Take your time and enjoy the process.
+
+## Enlaces de Compra
+
+
+[![AMD Ryzen 5 5600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=amd+ryzen+5+5600&tag=laureanoeng-21)
+[**Ver en Amazon →**](https://www.amazon.es/s?k=amd+ryzen+5+5600&tag=laureanoeng-21)
+
+
+[![RX 6600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
+[**Ver en Amazon →**](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
+
 
