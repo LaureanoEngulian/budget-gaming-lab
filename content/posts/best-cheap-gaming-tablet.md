@@ -35,9 +35,7 @@ La mejor relación calidad-precio en tablets gaming. La pantalla 2K de 10.6 pulg
 - **Desventajas:** Solo 4GB RAM
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+galaxy+tab+a9+&tag=laureanoeng-21)
-
-La Tab A9+ destaca por su pantalla de 11 pulgadas con 90Hz de refresco, algo raro en tablets económicas y que se nota en la fluidez de juegos y navegación. El ecosistema Samsung ofrece funciones como el Modo Juego que optimiza el rendimiento, y la pantalla más grande es genial para emular Nintendo DS o Wii. La RAM de 4GB se queda justa para juegos muy pesados, pero para el 90% de títulos es suficiente.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0CMD9WWC9?tag=laureanoeng-21)
 
 
 

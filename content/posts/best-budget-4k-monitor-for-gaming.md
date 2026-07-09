@@ -45,9 +45,7 @@ Jugar en 4K es una experiencia de otro nivel: la nitidez es tal que parece que p
 - **Desventajas:** Panel VA
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+m7&tag=laureanoeng-21)
-
-El M7 es único porque además de monitor, es una Smart TV completa con Tizen integrado. Puedes ver Netflix, Disney+ o YouTube sin encender el PC, y el mando a distancia viene incluido. La pantalla de 32 pulgadas en formato VA ofrece buen contraste y el USB-C simplifica la conexión. Es más monitor multimedia que gaming puro, pero para quien quiere un todo-en-uno en su habitación, es una opción muy inteligente.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09RBB1WV4?tag=laureanoeng-21)
 
 
 

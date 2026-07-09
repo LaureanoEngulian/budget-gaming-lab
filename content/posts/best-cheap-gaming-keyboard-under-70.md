@@ -47,9 +47,7 @@ Un teclado mecánico cambia tu forma de jugar. Literalmente. La diferencia entre
 - **Desventajas:** Opciones de switch limitadas de serie
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=tecware+phantom+87&tag=laureanoeng-21)
-
-Lo mejor de este teclado es que puedes cambiar los switches sin soldar absolutamente nada. Los Outemu vienen montados de serie, pero si quieres probar otros más silenciosos, más táctiles o más rápidos, solo los sacas y pones otros nuevos. Eso, en un teclado de 45€, es una locura. El RGB es uniforme, el formato TKL es cómodo y la construcción general transmite más calidad de la que su precio sugiere. Ideal para quien quiere experimentar con switches sin gastar en un teclado caro.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B079HQBYDD?tag=laureanoeng-21)
 
 
 

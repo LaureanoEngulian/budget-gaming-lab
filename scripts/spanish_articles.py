@@ -19,6 +19,7 @@ ASINS = {
     "Royal Kludge RK61": "B09JK2DSSZ",
     "HyperX Alloy Core": "B08934QWQY",
     "Keychron C1 Pro": "B0DYJQ5Z2Z",
+    "Tecware Phantom 87": "B079HQBYDD",
     # Auriculares
     "HyperX Cloud Stinger": "B07Y8SDD2N",
     "Razer BlackShark V2 X": "B089SSFV85",
@@ -38,10 +39,22 @@ ASINS = {
     "ASUS VP249QGR": "B082NWNK1F",
     "Sceptre E248B": "B088VMY23M",
     "Gigabyte G24F 2": "B0BPCLL9V6",
+    "Dell S2422HG": "B08V8YYLDV",
+    "MSI Optix G24C4": "B08PF8Q8LW",
+    "Samsung CRG5": "B07TGMC29J",
+    "Samsung M7": "B09RBB1WV4",
     # Webcam
     "Logitech C270": "B07F7VQJRG",
     # Micrófono
     "FIFINE K669B Micrófono": "B0BVXQFCSB",
+    # Mandos
+    "Mando Xbox Series X/S": "B0F2NC69KK",
+    "8BitDo Pro 2": "B0CSPH1JYV",
+    "Gulikit KingKong 2": "B0B1VHQW5B",
+    # Tablets
+    "Samsung Galaxy Tab A9+": "B0CMD9WWC9",
+    # Earbuds
+    "KZ ZSN Pro X": "B08TR39Y9H",
 }
 
 def amz(p):

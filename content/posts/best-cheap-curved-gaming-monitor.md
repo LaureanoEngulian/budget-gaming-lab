@@ -33,9 +33,7 @@ Los monitores curvos tienen algo especial: envuelven tu visión, te meten dentro
 - **Desventajas:** Soporte mejorable
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=msi+optix+g24c4&tag=laureanoeng-21)
-
-MSI le ha dado un toque elegante a este monitor curvo con un diseño sin marcos y una base con detalles rojos que queda genial en cualquier setup. El panel VA de 1500R ofrece 144Hz y un tiempo de respuesta rápido que minimiza el ghosting. Los modos de juego preconfigurados ayudan a sacarle partido sin complicaciones. El soporte es un poco básico, pero la pantalla se ve tan bien que se lo perdonas.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08PF8Q8LW?tag=laureanoeng-21)
 
 
 
@@ -47,9 +45,7 @@ MSI le ha dado un toque elegante a este monitor curvo con un diseño sin marcos 
 - **Desventajas:** Colores mejorables
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+crg5&tag=laureanoeng-21)
-
-240Hz en un monitor curvo por 250€. El CRG5 es para los que se toman el gaming competitivo en serio y quieren la máxima fluidez posible sin gastar 500€. La curvatura 1800R es más suave que la 1500R, pero suficiente para sentir inmersión. Los 240Hz son una locura de suaves — una vez los pruebas, cuesta volver a 144Hz. Los colores no son los mejores del mercado, pero para rendimiento puro, este monitor es un misil.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07TGMC29J?tag=laureanoeng-21)
 
 
 

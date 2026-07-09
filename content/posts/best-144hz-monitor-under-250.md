@@ -33,9 +33,7 @@ Dar el salto de 60Hz a 144Hz es como quitarse unas gafas sucias: de repente todo
 - **Desventajas:** Sombras en escenas oscuras
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
-
-¿Monitor curvo por menos de 200€? El Dell S2422HG es un VA curvo de 24 pulgadas con 165Hz que ofrece un contraste espectacular. La curvatura envuelve ligeramente tu campo de visión y la calidad de construcción Dell es de las mejores de la lista. Ideal para juegos de mundo abierto o aventuras donde los negros profundos y el contraste importan. En escenas muy oscuras puede haber algo de sombra, pero nada grave.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08V8YYLDV?tag=laureanoeng-21)
 
 
 
