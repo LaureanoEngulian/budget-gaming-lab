@@ -68,24 +68,3 @@ tags:
 **Mejor en general:** HyperX Cloud Stinger.
 **Mejor para competitivo:** Razer BlackShark V2 X.
 **Mejor económico:** Corsair HS35.
-
-
-## Enlaces de Compra
-
-
-[![HyperX Cloud Stinger](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
-
-
-[![Razer BlackShark V2 X](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=razer+blackshark+v2+x&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=razer+blackshark+v2+x&tag=laureanoeng-21)
-
-
-[![Logitech G335](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+g335&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g335&tag=laureanoeng-21)
-
-
-[![Corsair HS35](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=corsair+hs35&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+hs35&tag=laureanoeng-21)
-
-

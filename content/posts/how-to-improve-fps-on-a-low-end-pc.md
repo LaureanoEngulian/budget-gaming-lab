@@ -52,4 +52,3 @@ No necesitas un PC nuevo para mejorar tu rendimiento en juegos.
 - **Apex:** Todo bajo, TSAA
 
 Lo mejor: la mayoría es gratis. Pruébalo antes de gastar en mejoras.
-

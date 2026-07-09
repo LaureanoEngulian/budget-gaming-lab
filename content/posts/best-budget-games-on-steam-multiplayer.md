@@ -45,4 +45,3 @@ Mejor shooter cooperativo del mercado.
 **Mejor con amigos:** Lethal Company.
 **Mejor supervivencia:** Valheim.
 **Mejor cooperativo:** Deep Rock Galactic.
-

@@ -55,20 +55,3 @@ tags:
 **Mejor rendimiento:** RX 6600.
 **Mejor para streaming:** RTX 3050.
 **Mejor valor (usada):** GTX 1660 Super (~120€).
-
-
-## Enlaces de Compra
-
-
-[![RX 6600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
-
-
-[![RTX 3050](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=rtx+3050&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=rtx+3050&tag=laureanoeng-21)
-
-
-[![Intel Arc A750](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=intel+arc+a750&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=intel+arc+a750&tag=laureanoeng-21)
-
-

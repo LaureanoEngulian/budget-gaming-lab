@@ -55,24 +55,3 @@ tags:
 **Mejor calidad-precio:** AOC C24G1.
 **Mejor para competitivo:** Samsung CRG5 (240Hz).
 **Mejor diseño:** MSI Optix G24C4.
-
-
-## Enlaces de Compra
-
-
-[![AOC C24G1](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+c24g1&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+c24g1&tag=laureanoeng-21)
-
-
-[![MSI Optix G24C4](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=msi+optix+g24c4&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=msi+optix+g24c4&tag=laureanoeng-21)
-
-
-[![Samsung CRG5](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=samsung+crg5&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+crg5&tag=laureanoeng-21)
-
-
-[![Dell S2422HG](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
-
-

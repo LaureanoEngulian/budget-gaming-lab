@@ -55,24 +55,3 @@ tags:
 **Mejor en general:** Acer Nitro V 15.
 **Mejor construcción:** Lenovo LOQ 15.
 **Más potente:** ASUS TUF A15.
-
-
-## Enlaces de Compra
-
-
-[![Acer Nitro V 15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=acer+nitro+v+15&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=acer+nitro+v+15&tag=laureanoeng-21)
-
-
-[![Lenovo LOQ 15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=lenovo+loq+15&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=lenovo+loq+15&tag=laureanoeng-21)
-
-
-[![HP Victus 15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hp+victus+15&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hp+victus+15&tag=laureanoeng-21)
-
-
-[![ASUS TUF A15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=asus+tuf+a15&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=asus+tuf+a15&tag=laureanoeng-21)
-
-

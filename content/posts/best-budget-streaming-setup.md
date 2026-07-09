@@ -53,20 +53,3 @@ tags:
 ## Veredicto
 
 Setup completo por menos de 200€. Buena iluminación hace que cualquier webcam se vea mejor.
-
-
-## Enlaces de Compra
-
-
-[![FIFINE K669B](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=fifine+k669b&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=fifine+k669b&tag=laureanoeng-21)
-
-
-[![Logitech C270](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+c270&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+c270&tag=laureanoeng-21)
-
-
-[![GVM LED Panel](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gvm+led+panel&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=gvm+led+panel&tag=laureanoeng-21)
-
-

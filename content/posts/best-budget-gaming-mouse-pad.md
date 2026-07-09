@@ -55,20 +55,3 @@ tags:
 **Mejor en general:** SteelSeries QcK.
 **Mejor extragrande:** Corsair MM300.
 **Mejor equilibrio:** HyperX Fury S.
-
-
-## Enlaces de Compra
-
-
-[![SteelSeries QcK](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=steelseries+qck&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=steelseries+qck&tag=laureanoeng-21)
-
-
-[![HyperX Fury S](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+fury+s&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+fury+s&tag=laureanoeng-21)
-
-
-[![Corsair MM300](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=corsair+mm300&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+mm300&tag=laureanoeng-21)
-
-

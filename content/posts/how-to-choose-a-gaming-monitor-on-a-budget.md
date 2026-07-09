@@ -42,20 +42,3 @@ tags:
 ## Veredicto
 
 Para la mayoría: **1080p + 144Hz + IPS** es el punto dulce.
-
-
-## Enlaces de Compra
-
-
-[![AOC 24G2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-
-
-[![Sceptre E248B](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
-
-
-[![Dell S2722QC](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
-
-

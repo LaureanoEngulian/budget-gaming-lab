@@ -55,20 +55,3 @@ tags:
 **Más económica:** IKEA LINNMON.
 **Mejor en L:** MR IRONSTONE.
 **Mejor calidad:** Bush Furniture.
-
-
-## Enlaces de Compra
-
-
-[![IKEA LINNMON](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=ikea+linnmon&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=ikea+linnmon&tag=laureanoeng-21)
-
-
-[![MR IRONSTONE](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=mr+ironstone&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=mr+ironstone&tag=laureanoeng-21)
-
-
-[![Bush Furniture](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=bush+furniture&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=bush+furniture&tag=laureanoeng-21)
-
-

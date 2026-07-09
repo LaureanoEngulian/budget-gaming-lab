@@ -68,24 +68,3 @@ tags:
 **Mejor en general:** AOC 24G2.
 **Mejor para competitivo:** MSI G244F.
 **Más económico:** Sceptre E248B.
-
-
-## Enlaces de Compra
-
-
-[![AOC 24G2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-
-
-[![MSI G244F](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=msi+g244f&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=msi+g244f&tag=laureanoeng-21)
-
-
-[![ASUS VP249QGR](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=asus+vp249qgr&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=asus+vp249qgr&tag=laureanoeng-21)
-
-
-[![Sceptre E248B](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
-
-

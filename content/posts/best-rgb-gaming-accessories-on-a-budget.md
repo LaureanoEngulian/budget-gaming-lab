@@ -55,20 +55,3 @@ tags:
 **Mejor en general:** Govee RGBIC.
 **Mejor para interior PC:** Phanteks Halos.
 **Más económica:** Airgoo.
-
-
-## Enlaces de Compra
-
-
-[![Govee RGBIC Strip](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=govee+rgbic+strip&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=govee+rgbic+strip&tag=laureanoeng-21)
-
-
-[![Phanteks Halos](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=phanteks+halos&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=phanteks+halos&tag=laureanoeng-21)
-
-
-[![Airgoo LED Strip](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=airgoo+led+strip&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=airgoo+led+strip&tag=laureanoeng-21)
-
-

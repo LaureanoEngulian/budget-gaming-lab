@@ -739,13 +739,6 @@ Si est\u00e1s dispuesto a dedicar 2-3 horas al montaje, **el custom rinde 20-30%
         
         body = a["content"]
         
-        # Add product images at the end
-        img_section = ""
-        if a["products"]:
-            img_section += "\n\n## Enlaces de Compra\n\n"
-            for p in a["products"]:
-                img_section += amz(p)
-        
         content = f"""---
 title: "{a['title']}"
 date: {pub_date.strftime('%Y-%m-%d')}
@@ -758,7 +751,6 @@ tags:
 ---
 
 {body.strip()}
-{img_section}
 """
         
         # Write file

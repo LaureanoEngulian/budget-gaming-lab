@@ -47,4 +47,3 @@ El mejor juego multijugador gratuito. Funciona en todo y se juega con todos.
 **Mejor Battle Royale:** Fortnite.
 **Mejor jugabilidad:** Apex Legends.
 **Más divertido:** Rocket League.
-

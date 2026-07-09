@@ -40,4 +40,3 @@ Harvest Moon se encuentra con RPG. Creado por un solo desarrollador.
 **Mejor calidad-precio:** Vampire Survivors.
 **Más relajante:** Stardew Valley.
 **Mejor exploración:** Terraria.
-

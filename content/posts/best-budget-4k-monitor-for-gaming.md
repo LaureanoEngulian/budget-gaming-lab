@@ -55,24 +55,3 @@ tags:
 **Mejor calidad-precio:** LG 27UP600.
 **Mejor para productividad:** Dell S2722QC.
 **Mejor Smart Monitor:** Samsung M7.
-
-
-## Enlaces de Compra
-
-
-[![LG 27UP600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=lg+27up600&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=lg+27up600&tag=laureanoeng-21)
-
-
-[![Dell S2722QC](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
-
-
-[![Samsung M7](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=samsung+m7&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+m7&tag=laureanoeng-21)
-
-
-[![Acer CB282K](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=acer+cb282k&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=acer+cb282k&tag=laureanoeng-21)
-
-

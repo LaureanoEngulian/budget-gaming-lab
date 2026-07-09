@@ -86,28 +86,3 @@ tags:
 **Mecánico económico:** Redragon K552.
 **Mejor calidad-precio:** Tecware Phantom 87 (intercambiable).
 **Compacto ideal:** Royal Kludge RK61.
-
-
-## Enlaces de Compra
-
-
-[![Redragon K552](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=redragon+k552&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=redragon+k552&tag=laureanoeng-21)
-
-
-[![HyperX Alloy Core](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+alloy+core&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+alloy+core&tag=laureanoeng-21)
-
-
-[![Tecware Phantom 87](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=tecware+phantom+87&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=tecware+phantom+87&tag=laureanoeng-21)
-
-
-[![Royal Kludge RK61](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=royal+kludge+rk61&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=royal+kludge+rk61&tag=laureanoeng-21)
-
-
-[![Keychron C1 Pro](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=keychron+c1+pro&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=keychron+c1+pro&tag=laureanoeng-21)
-
-

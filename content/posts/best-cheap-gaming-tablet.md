@@ -55,20 +55,3 @@ tags:
 **Mejor en general:** Lenovo Tab M10 Plus.
 **Mejor para emulación:** Samsung Tab A9+.
 **Más económica:** Amazon Fire HD 10.
-
-
-## Enlaces de Compra
-
-
-[![Lenovo Tab M10 Plus](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=lenovo+tab+m10+plus&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=lenovo+tab+m10+plus&tag=laureanoeng-21)
-
-
-[![Samsung Tab A9+](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=samsung+tab+a9+&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+tab+a9+&tag=laureanoeng-21)
-
-
-[![Amazon Fire HD 10](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=amazon+fire+hd+10&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=amazon+fire+hd+10&tag=laureanoeng-21)
-
-

@@ -55,20 +55,3 @@ tags:
 **Mejor ergonomía:** Hbada E1.
 **Más acolchada:** GTRACING B09.
 **Mejor tela:** RESPAWN 100.
-
-
-## Enlaces de Compra
-
-
-[![Hbada E1](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hbada+e1&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hbada+e1&tag=laureanoeng-21)
-
-
-[![GTRACING B09](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gtracing+b09&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=gtracing+b09&tag=laureanoeng-21)
-
-
-[![RESPAWN 100](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=respawn+100&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=respawn+100&tag=laureanoeng-21)
-
-

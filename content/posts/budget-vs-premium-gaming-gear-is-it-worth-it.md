@@ -45,4 +45,3 @@ Una silla gaming de 150€ es decente. Una ergonómica de 400€+ (Herman Miller
 | Auricular (50€) | Mesa estable |
 
 El hardware económico en 2026 es genuinamente bueno. No necesitas premium para disfrutar del gaming.
-

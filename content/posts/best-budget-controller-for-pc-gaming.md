@@ -55,24 +55,3 @@ tags:
 **Mejor en general:** Mando Xbox Series X/S.
 **Mejor cruceta:** 8BitDo Pro 2.
 **Mejor duración:** Gulikit KingKong 2.
-
-
-## Enlaces de Compra
-
-
-[![Xbox Series X/S Controller](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=xbox+series+x/s+controller&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=xbox+series+x/s+controller&tag=laureanoeng-21)
-
-
-[![8BitDo Pro 2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=8bitdo+pro+2&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=8bitdo+pro+2&tag=laureanoeng-21)
-
-
-[![Gulikit KingKong 2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gulikit+kingkong+2&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=gulikit+kingkong+2&tag=laureanoeng-21)
-
-
-[![PowerA Controller](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=powera+controller&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=powera+controller&tag=laureanoeng-21)
-
-

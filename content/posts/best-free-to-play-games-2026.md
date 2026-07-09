@@ -51,4 +51,3 @@ Cientos de horas de contenido gratis de calidad triple A.
 **Mejor competitivo:** Marvel Rivals.
 **Mejor casual:** Fortnite.
 **Mejor para un jugador:** Genshin Impact.
-

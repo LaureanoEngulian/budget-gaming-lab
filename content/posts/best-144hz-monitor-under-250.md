@@ -55,24 +55,3 @@ tags:
 **Mejor en general:** AOC 24G2SP.
 **Mejor curvo:** Dell S2422HG.
 **Mejores colores:** Gigabyte G24F 2.
-
-
-## Enlaces de Compra
-
-
-[![AOC 24G2SP](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
-
-
-[![Dell S2422HG](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
-
-
-[![ASUS VG249Q1A](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=asus+vg249q1a&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=asus+vg249q1a&tag=laureanoeng-21)
-
-
-[![Gigabyte G24F 2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gigabyte+g24f+2&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=gigabyte+g24f+2&tag=laureanoeng-21)
-
-

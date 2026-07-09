@@ -41,24 +41,3 @@ tags:
 ## Veredicto
 
 Puedes tener un setup gaming completamente funcional por menos de 500€. Empieza con el PC o la consola y ve mejorando con el tiempo.
-
-
-## Enlaces de Compra
-
-
-[![Logitech G203](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+g203&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g203&tag=laureanoeng-21)
-
-
-[![Redragon K552](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=redragon+k552&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=redragon+k552&tag=laureanoeng-21)
-
-
-[![HyperX Cloud Stinger](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
-
-
-[![AOC 24G2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-
-

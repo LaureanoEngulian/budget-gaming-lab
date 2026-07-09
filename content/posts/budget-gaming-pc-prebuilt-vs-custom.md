@@ -49,20 +49,3 @@ tags:
 ## Veredicto
 
 Si estás dispuesto a dedicar 2-3 horas al montaje, **el custom rinde 20-30% mejor por el mismo dinero.**
-
-
-## Enlaces de Compra
-
-
-[![AMD Ryzen 5 5600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=amd+ryzen+5+5600&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=amd+ryzen+5+5600&tag=laureanoeng-21)
-
-
-[![RX 6600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
-
-
-[![Skytech Nebula](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=skytech+nebula&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=skytech+nebula&tag=laureanoeng-21)
-
-

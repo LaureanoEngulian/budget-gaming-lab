@@ -70,16 +70,3 @@ tags:
 - **Bucle de inicio:** Vuelve a colocar la RAM, limpia la CMOS
 
 Montar un PC es 90% confianza. Tómate tu tiempo y disfruta del proceso.
-
-
-## Enlaces de Compra
-
-
-[![AMD Ryzen 5 5600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=amd+ryzen+5+5600&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=amd+ryzen+5+5600&tag=laureanoeng-21)
-
-
-[![RX 6600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=rx+6600&tag=laureanoeng-21)
-
-

@@ -86,28 +86,3 @@ tags:
 **Mejor en general:** Logitech G203 Lightsync — fiable y personalizable.
 **Mejor para FPS:** SteelSeries Rival 3 — ligero con seguimiento preciso.
 **Mejor calidad-precio:** Corsair Katar Pro XT — prestaciones increíbles por el precio.
-
-
-## Enlaces de Compra
-
-
-[![Logitech G203 Lightsync](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+g203+lightsync&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g203+lightsync&tag=laureanoeng-21)
-
-
-[![Razer DeathAdder Essential](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=razer+deathadder+essential&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=razer+deathadder+essential&tag=laureanoeng-21)
-
-
-[![SteelSeries Rival 3](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=steelseries+rival+3&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=steelseries+rival+3&tag=laureanoeng-21)
-
-
-[![HyperX Pulsefire Core](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+pulsefire+core&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+pulsefire+core&tag=laureanoeng-21)
-
-
-[![Corsair Katar Pro XT](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=corsair+katar+pro+xt&tag=laureanoeng-21)
-[**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+katar+pro+xt&tag=laureanoeng-21)
-
-
