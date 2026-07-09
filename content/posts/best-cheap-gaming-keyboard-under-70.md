@@ -21,9 +21,7 @@ Un teclado mecánico cambia tu forma de jugar. Literalmente. La diferencia entre
 - **Desventajas:** Sin software, teclas básicas
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=redragon+k552+kumara&tag=laureanoeng-21)
-
-El K552 es el clásico que ha iniciado a miles de personas en el mundo de los teclados mecánicos. Por unos 35€ te llevas un marco metálico, switches Outemu (elige entre Azul, Marrón o Rojo según tu gusto) y un formato TKL que ahorra espacio sin sacrificar teclas esenciales. Sí, las teclas no son premium y no tiene software, pero para ser tu primer teclado mecánico es imbatible. Cuando lo coges y oyes ese clic por primera vez, entiendes por qué todo el mundo lo recomienda.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B016MAK38U?tag=laureanoeng-21)
 
 
 
@@ -81,9 +79,7 @@ Keychron ha hecho lo imposible: meter QMK/VIA en un teclado de 60€. Esto signi
 - **Desventajas:** Sin teclas de flecha, curva de aprendizaje
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=royal+kludge+rk61&tag=laureanoeng-21)
-
-El rey de los teclados ultracompactos. Con formato 60%, apenas ocupa espacio en la mesa y deja sitio para mover el ratón sin límites. La versión inalámbrica te permite desconectar el cable y llevarlo a cualquier sitio, con una latencia baja que no notarás ni jugando. El inconveniente es que no tiene teclas de flecha dedicadas — tendrás que usar combinaciones — y hay una curva de aprendizaje. Pero una vez que te acostumbras, no quieres volver a un teclado grande nunca más.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09JK2DSSZ?tag=laureanoeng-21)
 
 
 

@@ -35,9 +35,7 @@ El C1 Pro es el teclado que más recomendamos a quienes quieren algo más que un
 - **Desventajas:** Fila inferior no estándar
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=redragon+k552+kumara&tag=laureanoeng-21)
-
-El Kumara es el teclado que más gente ha iniciado en el mundo mecánico. Por 35€ tienes switches Outemu, marco metálico y retroiluminación roja. No esperes software ni personalización avanzada, pero la experiencia al escribir y jugar es genuinamente mecánica. La fila inferior no es estándar (difícil cambiar keycaps), pero para empezar a disfrutar de los clics sin gastar mucho, es imbatible.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B016MAK38U?tag=laureanoeng-21)
 
 
 
@@ -49,9 +47,7 @@ El Kumara es el teclado que más gente ha iniciado en el mundo mecánico. Por 35
 - **Desventajas:** Sin teclas de flecha
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=royal+kludge+rk61&tag=laureanoeng-21)
-
-El RK61 es el teclado compacto que sigue siendo referencia. El formato 60% ocupa el mínimo espacio posible, los switches Gateron son suaves y fiables, y la versión inalámbrica funciona con una latencia tan baja que no notarás la diferencia con cable. La falta de teclas de flecha es un sacrificio, pero el espacio extra que ganas en la mesa lo compensa todo.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09JK2DSSZ?tag=laureanoeng-21)
 
 
 

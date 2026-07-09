@@ -5,7 +5,35 @@ OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "content",
 TAG = "laureanoeng-21"
 START_DATE = datetime(2026, 7, 9)
 
+ASINS = {
+    "Logitech G203 Lightsync": "B07W5JKFQC",
+    "Logitech G203": "B07W5JKFQC",
+    "Razer DeathAdder Essential": "B092R5MCB3",
+    "SteelSeries Rival 3": "B082XQHPCL",
+    "Redragon K552": "B016MAK38U",
+    "Redragon K552 Kumara": "B016MAK38U",
+    "Royal Kludge RK61": "B09JK2DSSZ",
+    "HyperX Cloud Stinger": "B07Y8SDD2N",
+    "Razer BlackShark V2 X": "B089SSFV85",
+    "Logitech G335": "B07W6J6TG5",
+    "Corsair HS35": "B0CZTN664T",
+    "SteelSeries QcK": "B000UEZ36W",
+    "Corsair MM300": "B08JH7H1NG",
+    "AOC 24G2": "B07Y3RYLVH",
+    "AOC 24G2SP": "B09WF96MFV",
+    "LG 27UP600": "B096BCKDZC",
+    "Dell S2722QC": "B09CGY99X5",
+    "AOC C24G1": "B07DTN4BM8",
+    "Logitech C270": "B07F7VQJRG",
+}
+
 def amz(p):
+    asin = ASINS.get(p)
+    if asin:
+        return f"""
+[**Ver en Amazon →**](https://www.amazon.es/dp/{asin}?tag={TAG})
+
+"""
     q = p.lower().replace(" ", "+")
     return f"""
 [**Ver en Amazon →**](https://www.amazon.es/s?k={q}&tag={TAG})

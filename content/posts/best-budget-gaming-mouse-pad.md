@@ -21,9 +21,7 @@ La alfombrilla es el componente más infravalorado de cualquier setup. Puedes te
 - **Desventajas:** Sin bordes cosidos en tallas pequeñas
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=steelseries+qck&tag=laureanoeng-21)
-
-La QcK es un mito del gaming. Lleva años siendo la alfombrilla más usada en torneos profesionales por una razón: es simple, funciona y cuesta 10€. La superficie de tela ofrece el equilibrio perfecto entre velocidad y control, permitiendo deslizamientos rápidos con paradas precisas. Está disponible en varios tamaños hasta XXL, perfecta para cubrir toda la mesa. Eso sí, las tallas pequeñas no tienen bordes cosidos y con el tiempo se deshilachan un poco.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B000UEZ36W?tag=laureanoeng-21)
 
 
 
@@ -49,9 +47,7 @@ La Fury S coge lo mejor de la QcK y le añade bordes cosidos que evitan que se d
 - **Desventajas:** Puede curvarse al inicio
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+mm300&tag=laureanoeng-21)
-
-Si necesitas espacio, la MM300 versión XL extended cubre ratón y teclado con un tamaño generoso. Los bordes cosidos son de buena calidad y la base antideslizante mantiene todo firme. La superficie está optimizada para sensores ópticos y láser, ofreciendo un deslizamiento suave y consistente. Es algo más cara que las otras, pero el tamaño extragrande justifica el precio si tienes una mesa amplia.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08JH7H1NG?tag=laureanoeng-21)
 
 
 

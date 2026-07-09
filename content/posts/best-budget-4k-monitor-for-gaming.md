@@ -21,9 +21,7 @@ Jugar en 4K es una experiencia de otro nivel: la nitidez es tal que parece que p
 - **Desventajas:** 60Hz solamente
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=lg+27up600&tag=laureanoeng-21)
-
-El LG 27UP600 es la puerta de entrada al 4K con mayúsculas. El panel IPS de 27 pulgadas ofrece una nitidez espectacular y colores que hacen justicia a cualquier juego. El soporte HDR10 mejora notablemente la imagen en juegos compatibles, y la densidad de píxeles es tan alta que no ves ni un solo diente de sierra. A 60Hz se queda corto para shooters competitivos, pero para juegos como The Witcher 3, Elden Ring o cualquier título que disfrutes con calma, es una gozada.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B096BCKDZC?tag=laureanoeng-21)
 
 
 
@@ -35,9 +33,7 @@ El LG 27UP600 es la puerta de entrada al 4K con mayúsculas. El panel IPS de 27 
 - **Desventajas:** 60Hz solamente
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
-
-Dell ha creado el monitor 4K ideal para los que también trabajan con el PC. El USB-C con carga de 65W te permite conectar un portátil y cargarlo con un solo cable, una bendición si alternas entre trabajo y juego. Los altavoces integrados son de los mejores que hemos oído en un monitor, y la construcción es sólida como un tanque. Todo esto lo convierte en el monitor perfecto para un setup híbrido trabajo-gaming.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09CGY99X5?tag=laureanoeng-21)
 
 
 

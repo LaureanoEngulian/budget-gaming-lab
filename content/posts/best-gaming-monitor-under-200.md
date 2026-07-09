@@ -21,9 +21,7 @@ El monitor es la ventana a tus juegos, y una mala elección puede arruinar la ex
 - **Desventajas:** Sin USB
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2&tag=laureanoeng-21)
-
-El 24G2 es el monitor que recomendamos a todo el mundo. Panel IPS de 24 pulgadas con colores vibrantes y ángulos de visión excelentes, 144Hz que se notan nada más mover el ratón, y un soporte ergonómico ajustable en altura, inclinación y giro que no esperas encontrar en este rango de precio. Es perfecto para todo: juegas, ves vídeos o trabajas y siempre se ve genial. El único pero es que no tiene puertos USB, pero por lo demás es el pack completo.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07Y3RYLVH?tag=laureanoeng-21)
 
 
 

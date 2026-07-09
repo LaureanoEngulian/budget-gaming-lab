@@ -21,9 +21,7 @@ El ratón es tu principal herramienta de batalla. Da igual que tengas un PC de 2
 - **Desventajas:** Cable no trenzado
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g203+lightsync&tag=laureanoeng-21)
-
-El G203 es el amigo fiable que nunca te falla. Lleva años siendo el rey de la gama de entrada porque Logitech ha sabido mantener lo esencial: un sensor óptico de 8.000 DPI que responde bien en cualquier superficie, un peso equilibrado de 85 gramos y ese RGB sutil que alegra cualquier escritorio. No es el más rápido ni el más ligero, pero es el que mejor envejece. Ideal si quieres algo que simplemente funcione bien durante años sin quebraderos de cabeza.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07W5JKFQC?tag=laureanoeng-21)
 
 
 
@@ -36,9 +34,7 @@ El G203 es el amigo fiable que nunca te falla. Lleva años siendo el rey de la g
 - **Desventajas:** Sin RGB, DPI menor que competidores
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=razer+deathadder+essential&tag=laureanoeng-21)
-
-Si tienes manos grandes, este es tu ratón. La forma ergonómica de la DeathAdder es historia viva del gaming, y la versión Essential mantiene ese diseño icónico a un precio ridículo. Se nota que Razer lleva décadas refinando este molde — descansas la mano y encaja de forma natural. El sensor de 6.400 DPI no es el más alto del mercado, pero para el 99% de los jugadores es más que suficiente. Perfecto para sesiones largas sin que se te canse la mano.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B092R5MCB3?tag=laureanoeng-21)
 
 
 
@@ -51,9 +47,7 @@ Si tienes manos grandes, este es tu ratón. La forma ergonómica de la DeathAdde
 - **Desventajas:** Cable básico
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=steelseries+rival+3&tag=laureanoeng-21)
-
-Aquí tienes el peso pluma de la lista con 77 gramos y un sensor TrueMove Core que es una auténtica bestia para el gaming competitivo. Se nota nada más cogerlo: se desliza como si bailara sobre la alfombrilla, ideal para esos movimientos rápidos en juegos como Valorant o CS2 donde cada milímetro cuenta. El agarre lateral de silicona evita que se te escape en los momentos más intensos. Eso sí, el cable es tirando a básico — nada que una cinta velcro no solucione.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B082XQHPCL?tag=laureanoeng-21)
 
 
 

@@ -21,9 +21,7 @@ Dar el salto de 60Hz a 144Hz es como quitarse unas gafas sucias: de repente todo
 - **Desventajas:** Sin USB
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
-
-La versión mejorada del mítico 24G2 llega con 165Hz y las mismas señas de identidad: panel IPS con colores excelentes, soporte ergonómico completo y una relación calidad-precio que sigue siendo referencia. Los 165Hz se notan más fluidos que los 144Hz estándar, y el tiempo de respuesta de 1ms MPRT mantiene la imagen limpia en movimientos rápidos. No tiene USB, pero cuando todo lo demás es tan bueno, se le perdona.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09WF96MFV?tag=laureanoeng-21)
 
 
 
