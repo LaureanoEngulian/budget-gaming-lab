@@ -33,9 +33,7 @@ Empezar a hacer streaming puede parecer caro: micrófono, cámara, iluminación,
 - **Desventajas:** Solo 720p
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+c270+webcam&tag=laureanoeng-21)
-
-La C270 es la webcam básica por excelencia. Ofrece 720p, que no es HD de primera calidad, pero con una buena iluminación (ahí entra el panel LED) se ve más que aceptable para un stream principiante. El enfoque fijo evita que la cámara busque el foco constantemente, y el tamaño compacto se sujeta fácilmente al monitor. No esperes calidad de DSLR, pero para empezar a enseñar tu cara en Twitch, es perfecta.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07F7VQJRG?tag=laureanoeng-21)
 
 
 
@@ -47,9 +45,7 @@ La C270 es la webcam básica por excelencia. Ofrece 720p, que no es HD de primer
 - **Desventajas:** Pequeño
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=panel+led+gvm&tag=laureanoeng-21)
-
-El secreto para que cualquier webcam se vea bien es la iluminación, y este panel LED GVM es la solución perfecta y barata. Tiene temperatura de color ajustable (de fría a cálida), brillo regulable y un difusor que suaviza la luz para que no te veas lavado. Es pequeño pero potente, y se coloca fácilmente detrás del monitor. Con este panel y la C270, tu stream se verá mucho más profesional de lo que has pagado.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08FYB4SZ3?tag=laureanoeng-21)
 
 
 

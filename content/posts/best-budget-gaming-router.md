@@ -21,9 +21,7 @@ Nada frustra más que el lag en mitad de una partida competitiva. Antes de culpa
 - **Desventajas:** Funciones avanzadas limitadas
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=tp-link+archer+ax10&tag=laureanoeng-21)
-
-El router que democratizó el WiFi 6. Por 60€ tienes WiFi de sexta generación con velocidades de hasta 1.5Gbps, ideal para gamers con varios dispositivos en casa. La configuración es sencilla desde la app, y el QoS básico ayuda a priorizar el tráfico de juego sobre el de Netflix o las descargas. Para un piso o casa pequeña, es todo lo que necesitas para jugar sin lag.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07YP3T5H7?tag=laureanoeng-21)
 
 
 
@@ -35,9 +33,7 @@ El router que democratizó el WiFi 6. Por 60€ tienes WiFi de sexta generación
 - **Desventajas:** 2 antenas
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=asus+rt-ax1800s&tag=laureanoeng-21)
-
-ASUS siempre ha tenido el mejor software de routers, y el RT-AX1800S no es una excepción. La interfaz es muy completa, con opciones de QoS avanzadas, VPN integrado y la tecnología AiMesh que te permite añadir más routers ASUS para ampliar la cobertura. El puerto gaming prioritario dedica todo el ancho de banda al dispositivo que conectes. Tiene solo 2 antenas, pero el software compensa con creces.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09M9477NS?tag=laureanoeng-21)
 
 
 
@@ -49,9 +45,7 @@ ASUS siempre ha tenido el mejor software de routers, y el RT-AX1800S no es una e
 - **Desventajas:** Más grande
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=tp-link+archer+ax20&tag=laureanoeng-21)
-
-Si tu casa es grande o tienes muchas paredes, el AX20 con 4 antenas ofrece mejor cobertura que el AX10. El QoS se puede configurar para priorizar juegos específicos o dispositivos, y el WiFi 6 garantiza que incluso con 10 dispositivos conectados no notes bajada de rendimiento. Es más grande y feo, pero la cobertura adicional lo convierte en el mejor para casas de dos plantas.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B088H34DW9?tag=laureanoeng-21)
 
 
 

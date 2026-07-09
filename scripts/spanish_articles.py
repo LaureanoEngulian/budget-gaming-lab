@@ -25,6 +25,8 @@ ASINS = {
     "Razer BlackShark V2 X": "B089SSFV85",
     "Logitech G335": "B07W6J6TG5",
     "Corsair HS35": "B0CZTN664T",
+    "HyperX Cloud Earbuds": "B07GW283KL",
+    "Razer Hammerhead X": "B08Z4GQS4X",
     # Alfombrillas
     "SteelSeries QcK": "B000UEZ36W",
     "Corsair MM300": "B08JH7H1NG",
@@ -45,6 +47,7 @@ ASINS = {
     "Samsung M7": "B09RBB1WV4",
     # Webcam
     "Logitech C270": "B07F7VQJRG",
+    "Logitech C270 Webcam": "B07F7VQJRG",
     # Micrófono
     "FIFINE K669B Micrófono": "B0BVXQFCSB",
     # Mandos
@@ -53,8 +56,21 @@ ASINS = {
     "Gulikit KingKong 2": "B0B1VHQW5B",
     # Tablets
     "Samsung Galaxy Tab A9+": "B0CMD9WWC9",
+    "Lenovo Tab M10 Plus": "B0C5NVP4WV",
     # Earbuds
     "KZ ZSN Pro X": "B08TR39Y9H",
+    # Routers
+    "TP-Link Archer AX10": "B07YP3T5H7",
+    "TP-Link Archer AX20": "B088H34DW9",
+    "ASUS RT-AX1800S": "B09M9477NS",
+    # RGB / Iluminación
+    "Tira LED Govee RGBIC": "B09CSXL7PK",
+    "Phanteks Halos Digital": "B07BGWLH14",
+    "Tira LED Airgoo": "B07ZJ2CDKM",
+    "Panel LED GVM": "B08FYB4SZ3",
+    # Mesas
+    "MR IRONSTONE L-Shaped": "B0874BZTTQ",
+    "Bush Furniture Series C": "B000W8JO9S",
 }
 
 def amz(p):

@@ -21,9 +21,7 @@ El RGB no es solo estética: bien usado, transforma tu habitación y hace que tu
 - **Desventajas:** Requiere app
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=tira+led+govee+rgbic&tag=laureanoeng-21)
-
-Govee ha revolucionado el RGB barato con la tecnología RGBIC, que permite mostrar varios colores simultáneamente en la misma tira. El resultado son efectos mucho más dinámicos y bonitos que las tiras LED tradicionales. La app permite controlar cada segmento, sincronizar con la música y crear escenas personalizadas. Por 25€, es la forma más espectacular de iluminar tu escritorio o detrás del monitor.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B09CSXL7PK?tag=laureanoeng-21)
 
 
 
@@ -35,9 +33,7 @@ Govee ha revolucionado el RGB barato con la tecnología RGBIC, que permite mostr
 - **Desventajas:** No incluye ventilador
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=phanteks+halos+digital&tag=laureanoeng-21)
-
-Si ya tienes ventiladores normales y quieres darles vida sin comprar unos nuevos, los Halos son la solución. Son marcos RGB que se acoplan a la parte frontal de cualquier ventilador de 120mm o 140mm, convirtiéndolos en ventiladores RGB en segundos. Los LEDs direccionables ofrecen efectos fluidos que se sincronizan con la placa base. Una idea genial y económica para renovar el interior de tu PC.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07BGWLH14?tag=laureanoeng-21)
 
 
 
@@ -49,9 +45,7 @@ Si ya tienes ventiladores normales y quieres darles vida sin comprar unos nuevos
 - **Desventajas:** Un solo color a la vez
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=tira+led+airgoo&tag=laureanoeng-21)
-
-La opción más económica para iluminar tu habitación. Por 12€ tienes 3 metros de tira LED con control remoto, brillo ajustable y varios modos de color. No esperes efectos avanzados ni colores independientes (solo un color a la vez), pero para poner detrás del monitor o debajo de la mesa y crear ambiente, cumple de sobra. Ideal si quieres RGB funcional sin complicaciones.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07ZJ2CDKM?tag=laureanoeng-21)
 
 
 

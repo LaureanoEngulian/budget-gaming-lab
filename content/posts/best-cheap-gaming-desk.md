@@ -35,9 +35,7 @@ El clásico infalible de IKEA. Por unos 50€ tienes una mesa de 120x60cm perfec
 - **Desventajas:** Ocupa espacio
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=mr+ironstone+l-shaped&tag=laureanoeng-21)
-
-El sueño de cualquier gamer con espacio: una mesa en forma de L por 100€. Te permite tener el monitor en un lado y espacio para el portátil, las consolas o simplemente para apoyar los brazos mientras juegas. La superficie con textura de carbono se ve sorprendentemente bien y es fácil de limpiar. Ocupa bastante espacio, pero si tienes una habitación amplia, la forma en L cambia completamente la experiencia de juego.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0874BZTTQ?tag=laureanoeng-21)
 
 
 
@@ -49,9 +47,7 @@ El sueño de cualquier gamer con espacio: una mesa en forma de L por 100€. Te 
 - **Desventajas:** Más pesada
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=bush+furniture+series+c&tag=laureanoeng-21)
-
-La opción para quien quiere algo que dure toda la vida. La Bush Furniture Series C es de madera maciza de 60 pulgadas, con un grosor que no se comba ni con el peso de tres monitores. Es pesada, sí, pero eso significa que no se mueve ni cuando golpeas la mesa emocionado. Es más cara, pero la calidad se nota en cada detalle. Una inversión para los que quieren un escritorio definitivo.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B000W8JO9S?tag=laureanoeng-21)
 
 
 

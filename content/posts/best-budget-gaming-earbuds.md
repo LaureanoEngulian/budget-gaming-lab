@@ -21,9 +21,7 @@ No todo el mundo quiere un gran casco gaming en la cabeza. Los auriculares inal�
 - **Desventajas:** Cable corto
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=razer+hammerhead+x&tag=laureanoeng-21)
-
-Los Hammerhead X son la opción ideal para jugar sin latencia gracias al modo de baja latencia que funciona tanto por USB-C como con el adaptador incluido. El sonido tiene graves potentes y el micrófono integrado capta bien la voz. El diseño tipo collar mantiene los auriculares siempre a mano alrededor del cuello, y la batería aguanta varias sesiones. Perfectos para jugar en el móvil o en la Switch sin cables incómodos.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08Z4GQS4X?tag=laureanoeng-21)
 
 
 
@@ -47,9 +45,7 @@ Los Hammerhead X son la opción ideal para jugar sin latencia gracias al modo de
 - **Desventajas:** Solo 3.5mm
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+cloud+earbuds&tag=laureanoeng-21)
-
-HyperX ha diseñado estos auriculares específicamente para la Nintendo Switch, y se nota. El micrófono en línea tiene un botón para silenciarlo y controlar el volumen, y los controladores de 10mm ofrecen un sonido equilibrado. Son ligeros, vienen con almohadillas de diferentes tamaños y la funda de transporte los protege bien. Si juegas mucho en Switch, son la opción más cómoda y práctica.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07GW283KL?tag=laureanoeng-21)
 
 
 

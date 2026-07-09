@@ -21,9 +21,7 @@ Las tablets no son solo para ver Netflix o leer correos. Una buena tablet econó
 - **Desventajas:** Procesador gama media
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=lenovo+tab+m10+plus&tag=laureanoeng-21)
-
-La mejor relación calidad-precio en tablets gaming. La pantalla 2K de 10.6 pulgadas es preciosa, con colores vivos y buen brillo para jugar en cualquier sitio. Los altavoces estéreo ofrecen un sonido envolvente que mejora la experiencia, y el jack de auriculares te permite conectar unos cascos sin adaptador. El procesador no es el más potente, pero para juegos móviles y emulación hasta PS1 y PSP va sobrado.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0C5NVP4WV?tag=laureanoeng-21)
 
 
 
