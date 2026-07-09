@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Estela VA
 
 
-[![AOC C24G1](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+c24g1&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+c24g1&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Soporte mejorable
 
 
-[![MSI Optix G24C4](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=msi+optix+g24c4&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=msi+optix+g24c4&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Colores mejorables
 
 
-[![Samsung CRG5](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=samsung+crg5&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+crg5&tag=laureanoeng-21)
 
 

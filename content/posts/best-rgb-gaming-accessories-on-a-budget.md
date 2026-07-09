@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Requiere app
 
 
-[![Tira LED Govee RGBIC](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=tira+led+govee+rgbic&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=tira+led+govee+rgbic&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** No incluye ventilador
 
 
-[![Phanteks Halos Digital](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=phanteks+halos+digital&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=phanteks+halos+digital&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Un solo color a la vez
 
 
-[![Tira LED Airgoo](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=tira+led+airgoo&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=tira+led+airgoo&tag=laureanoeng-21)
 
 

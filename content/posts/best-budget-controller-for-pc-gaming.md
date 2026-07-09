@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Usa pilas (compra recargables)
 
 
-[![Mando Xbox Series X/S](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=mando+xbox+series+x/s&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=mando+xbox+series+x/s&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** No es diseño Xbox
 
 
-[![8BitDo Pro 2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=8bitdo+pro+2&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=8bitdo+pro+2&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Marca poco conocida
 
 
-[![Gulikit KingKong 2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gulikit+kingkong+2&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=gulikit+kingkong+2&tag=laureanoeng-21)
 
 

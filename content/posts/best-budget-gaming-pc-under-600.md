@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Requiere montaje
 
 
-[![PC Custom Gaming ~580€](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=pc+custom+gaming+~580€&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=pc+custom+gaming+~580€&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Menor rendimiento que uno custom
 
 
-[![Skytech Archangel (Preensamblado)](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=skytech+archangel+(preensamblado)&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=skytech+archangel+(preensamblado)&tag=laureanoeng-21)
 
 

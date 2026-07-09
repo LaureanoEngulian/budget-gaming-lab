@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Sin RTX, sin DLSS
 
 
-[![AMD Radeon RX 6600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=amd+radeon+rx+6600&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=amd+radeon+rx+6600&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Más lenta que RX 6600
 
 
-[![NVIDIA RTX 3050](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=nvidia+rtx+3050&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=nvidia+rtx+3050&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Drivers mejorables en juegos antiguos
 
 
-[![Intel Arc A750](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=intel+arc+a750&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=intel+arc+a750&tag=laureanoeng-21)
 
 

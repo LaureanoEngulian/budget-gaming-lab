@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Sin USB ni software
 
 
-[![HyperX Cloud Stinger](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+cloud+stinger&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Sin tarjeta de sonido USB
 
 
-[![Razer BlackShark V2 X](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=razer+blackshark+v2+x&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=razer+blackshark+v2+x&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Sonido básico
 
 
-[![Logitech G335](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+g335&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g335&tag=laureanoeng-21)
 
 
@@ -58,7 +55,6 @@ tags:
 - **Desventajas:** Materiales mejorables
 
 
-[![Corsair HS35](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=corsair+hs35&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+hs35&tag=laureanoeng-21)
 
 

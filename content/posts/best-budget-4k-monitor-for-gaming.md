@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** 60Hz solamente
 
 
-[![LG 27UP600](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=lg+27up600&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=lg+27up600&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** 60Hz solamente
 
 
-[![Dell S2722QC](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2722qc&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Panel VA
 
 
-[![Samsung M7](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=samsung+m7&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+m7&tag=laureanoeng-21)
 
 

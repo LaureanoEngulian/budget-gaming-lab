@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Cable corto
 
 
-[![Razer Hammerhead X](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=razer+hammerhead+x&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=razer+hammerhead+x&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Sin micrófono
 
 
-[![KZ ZSN Pro X](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=kz+zsn+pro+x&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=kz+zsn+pro+x&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Solo 3.5mm
 
 
-[![HyperX Cloud Earbuds](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+cloud+earbuds&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+cloud+earbuds&tag=laureanoeng-21)
 
 

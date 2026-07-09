@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Sin USB
 
 
-[![AOC 24G2SP](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Sombras en escenas oscuras
 
 
-[![Dell S2422HG](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=dell+s2422hg&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Un poco más caro
 
 
-[![Gigabyte G24F 2](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gigabyte+g24f+2&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=gigabyte+g24f+2&tag=laureanoeng-21)
 
 

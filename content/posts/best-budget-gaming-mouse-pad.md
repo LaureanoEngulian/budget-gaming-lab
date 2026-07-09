@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Sin bordes cosidos en tallas pequeñas
 
 
-[![SteelSeries QcK](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=steelseries+qck&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=steelseries+qck&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Atrapa polvo
 
 
-[![HyperX Fury S](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+fury+s&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+fury+s&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Puede curvarse al inicio
 
 
-[![Corsair MM300](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=corsair+mm300&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+mm300&tag=laureanoeng-21)
 
 

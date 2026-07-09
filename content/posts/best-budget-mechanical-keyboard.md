@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Un poco más caro
 
 
-[![Keychron C1 Pro](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=keychron+c1+pro&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=keychron+c1+pro&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Fila inferior no estándar
 
 
-[![Redragon K552 Kumara](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=redragon+k552+kumara&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=redragon+k552+kumara&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Sin teclas de flecha
 
 
-[![Royal Kludge RK61](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=royal+kludge+rk61&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=royal+kludge+rk61&tag=laureanoeng-21)
 
 

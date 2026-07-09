@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Cable no trenzado
 
 
-[![Logitech G203 Lightsync](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+g203+lightsync&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+g203+lightsync&tag=laureanoeng-21)
 
 
@@ -33,7 +32,6 @@ tags:
 - **Desventajas:** Sin RGB, DPI menor que competidores
 
 
-[![Razer DeathAdder Essential](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=razer+deathadder+essential&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=razer+deathadder+essential&tag=laureanoeng-21)
 
 
@@ -47,7 +45,6 @@ tags:
 - **Desventajas:** Cable básico
 
 
-[![SteelSeries Rival 3](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=steelseries+rival+3&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=steelseries+rival+3&tag=laureanoeng-21)
 
 
@@ -61,7 +58,6 @@ tags:
 - **Desventajas:** Software limitado
 
 
-[![HyperX Pulsefire Core](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hyperx+pulsefire+core&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+pulsefire+core&tag=laureanoeng-21)
 
 
@@ -75,7 +71,6 @@ tags:
 - **Desventajas:** Construcción básica, sin RGB
 
 
-[![Corsair Katar Pro XT](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=corsair+katar+pro+xt&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+katar+pro+xt&tag=laureanoeng-21)
 
 

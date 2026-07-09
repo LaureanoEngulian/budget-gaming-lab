@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Batería justa
 
 
-[![Acer Nitro V 15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=acer+nitro+v+15&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=acer+nitro+v+15&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Un poco más pesado
 
 
-[![Lenovo LOQ 15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=lenovo+loq+15&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=lenovo+loq+15&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Pantalla mejorable
 
 
-[![ASUS TUF A15](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=asus+tuf+a15&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=asus+tuf+a15&tag=laureanoeng-21)
 
 

@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Sin USB
 
 
-[![AOC 24G2SP](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=aoc+24g2sp&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Soporte básico
 
 
-[![MSI G244F](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=msi+g244f&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=msi+g244f&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Panel VA, colores medios
 
 
-[![Sceptre E248B](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
 
 

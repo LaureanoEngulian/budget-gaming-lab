@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Menos acolchada
 
 
-[![Hbada E1](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=hbada+e1&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=hbada+e1&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** El cuero calienta
 
 
-[![GTRACING B09](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=gtracing+b09&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=gtracing+b09&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Colores limitados
 
 
-[![RESPAWN 100](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=respawn+100&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=respawn+100&tag=laureanoeng-21)
 
 

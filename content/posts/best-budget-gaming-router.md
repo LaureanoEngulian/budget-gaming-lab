@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Funciones avanzadas limitadas
 
 
-[![TP-Link Archer AX10](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=tp-link+archer+ax10&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=tp-link+archer+ax10&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** 2 antenas
 
 
-[![ASUS RT-AX1800S](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=asus+rt-ax1800s&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=asus+rt-ax1800s&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Más grande
 
 
-[![TP-Link Archer AX20](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=tp-link+archer+ax20&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=tp-link+archer+ax20&tag=laureanoeng-21)
 
 

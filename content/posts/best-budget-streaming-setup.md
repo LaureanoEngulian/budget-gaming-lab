@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Capta ruido ambiente
 
 
-[![FIFINE K669B Micrófono](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=fifine+k669b+micrófono&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=fifine+k669b+micrófono&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Solo 720p
 
 
-[![Logitech C270 Webcam](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=logitech+c270+webcam&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+c270+webcam&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Pequeño
 
 
-[![Panel LED GVM](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=panel+led+gvm&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=panel+led+gvm&tag=laureanoeng-21)
 
 

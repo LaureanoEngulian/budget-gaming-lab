@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Núcleo hueco, no muy duradera
 
 
-[![IKEA LINNMON + ADILS](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=ikea+linnmon+++adils&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=ikea+linnmon+++adils&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Ocupa espacio
 
 
-[![MR IRONSTONE L-Shaped](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=mr+ironstone+l-shaped&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=mr+ironstone+l-shaped&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Más pesada
 
 
-[![Bush Furniture Series C](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=bush+furniture+series+c&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=bush+furniture+series+c&tag=laureanoeng-21)
 
 

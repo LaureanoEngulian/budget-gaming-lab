@@ -7,9 +7,7 @@ START_DATE = datetime(2026, 7, 9)
 
 def amz(p):
     q = p.lower().replace(" ", "+")
-    img = f"https://m.media-amazon.com/images/P/placeholder.jpg"
     return f"""
-[![{p}]({img})](https://www.amazon.es/s?k={q}&tag={TAG})
 [**Ver en Amazon →**](https://www.amazon.es/s?k={q}&tag={TAG})
 
 """

@@ -19,7 +19,6 @@ tags:
 - **Desventajas:** Procesador gama media
 
 
-[![Lenovo Tab M10 Plus](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=lenovo+tab+m10+plus&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=lenovo+tab+m10+plus&tag=laureanoeng-21)
 
 
@@ -32,7 +31,6 @@ tags:
 - **Desventajas:** Solo 4GB RAM
 
 
-[![Samsung Galaxy Tab A9+](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=samsung+galaxy+tab+a9+&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=samsung+galaxy+tab+a9+&tag=laureanoeng-21)
 
 
@@ -45,7 +43,6 @@ tags:
 - **Desventajas:** Fire OS limitado
 
 
-[![Amazon Fire HD 10](https://m.media-amazon.com/images/P/placeholder.jpg)](https://www.amazon.es/s?k=amazon+fire+hd+10&tag=laureanoeng-21)
 [**Ver en Amazon →**](https://www.amazon.es/s?k=amazon+fire+hd+10&tag=laureanoeng-21)
 
 
