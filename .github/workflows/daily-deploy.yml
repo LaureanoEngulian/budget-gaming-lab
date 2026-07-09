@@ -1,0 +1,28 @@
+name: Daily Rebuild
+
+on:
+  schedule:
+    # Run daily at 12:00 UTC (09:00 ART) to trigger new articles
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update last-check timestamp
+        run: |
+          date -u '+%Y-%m-%d %H:%M UTC' > last-rebuild.txt
+          git config user.name "budget-gaming-bot"
+          git config user.email "bot@budgetgaminglab.com"
+          git add last-rebuild.txt
+          git diff --cached --quiet || git commit -m "chore: daily rebuild trigger $(date -u '+%Y-%m-%d')"
+          git push
