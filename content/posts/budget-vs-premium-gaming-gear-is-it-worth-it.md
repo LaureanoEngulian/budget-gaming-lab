@@ -48,3 +48,4 @@ A $150 gaming chair is decent. A $400+ ergonomic office chair (like Herman Mille
 | Headset ($50) | Desk stability |
 
 Budget gear in 2026 is genuinely good. You don't need premium to have a great gaming experience.
+

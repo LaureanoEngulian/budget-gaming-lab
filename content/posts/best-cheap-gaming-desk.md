@@ -31,7 +31,7 @@ Your desk is the foundation of your gaming setup. You don't need to spend much f
 
 The classic budget desk. Add a drawer unit for extra stability.
 
-[Check price on IKEA →](https://ikea.com)
+[Check price on IKEA →](https://www.ikea.com/es/es/?tag=laureanoeng-21
 
 ## 2. MR IRONSTONE L-Shaped
 
@@ -42,7 +42,7 @@ The classic budget desk. Add a drawer unit for extra stability.
 
 Perfect corner desk for dual monitor setups.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+desk&tag=laureanoeng-21)
 
 ## 3. Bush Furniture Series C
 
@@ -53,10 +53,11 @@ Perfect corner desk for dual monitor setups.
 
 Premium feel without premium price. Great long-term investment.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+desk&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best ultra-budget:** IKEA LINNMON.
 **Best L-shaped:** MR IRONSTONE.
 **Best quality:** Bush Furniture.
+

@@ -32,7 +32,7 @@ Sometimes keyboard and mouse isn't the answer. Here are the best budget controll
 
 The gold standard for PC gaming. Works perfectly with everything.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+controller+for+pc+gaming&tag=laureanoeng-21)
 
 ## 2. 8BitDo Pro 2
 
@@ -43,7 +43,7 @@ The gold standard for PC gaming. Works perfectly with everything.
 
 Best d-pad on any modern controller. Perfect for retro and fighting games.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+controller+for+pc+gaming&tag=laureanoeng-21)
 
 ## 3. Gulikit KingKong 2
 
@@ -54,10 +54,11 @@ Best d-pad on any modern controller. Perfect for retro and fighting games.
 
 Hall effect sticks mean zero drift forever. Worth the extra few bucks.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+controller+for+pc+gaming&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** Xbox Series X/S Controller.
 **Best d-pad:** 8BitDo Pro 2.
 **Best for longevity:** Gulikit KingKong 2 (no drift).
+

@@ -58,3 +58,4 @@ You don't need a new PC to get better performance. Here are proven ways to boost
 - **MSI Afterburner:** Undervolt GPU = better temps = better boost
 
 The best part: most of these are completely free. Try them before spending anything on upgrades.
+

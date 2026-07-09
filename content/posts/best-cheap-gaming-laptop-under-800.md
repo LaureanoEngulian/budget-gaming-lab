@@ -31,7 +31,7 @@ Gaming laptops under $800 used to be terrible. In 2026, they're actually good. H
 
 The best all-around budget gaming laptop.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+laptop+under+800&tag=laureanoeng-21)
 
 ## 2. Lenovo LOQ 15
 
@@ -42,7 +42,7 @@ The best all-around budget gaming laptop.
 
 Lenovo's budget gaming line offers premium build at a lower price.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+laptop+under+800&tag=laureanoeng-21)
 
 ## 3. ASUS TUF A15
 
@@ -53,10 +53,11 @@ Lenovo's budget gaming line offers premium build at a lower price.
 
 Best performance in the budget range with AMD's Ryzen 7.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+laptop+under+800&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** Acer Nitro V 15.
 **Best build:** Lenovo LOQ 15.
 **Most powerful:** ASUS TUF A15.
+

@@ -31,7 +31,7 @@ tags:
 
 The best affordable 4K monitor. Excellent image quality for the price.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+4k+monitor+for+gaming&tag=laureanoeng-21)
 
 ## 2. Dell S2722QC
 
@@ -42,7 +42,7 @@ The best affordable 4K monitor. Excellent image quality for the price.
 
 Perfect for dual-use gaming and productivity with USB-C connectivity.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+4k+monitor+for+gaming&tag=laureanoeng-21)
 
 ## 3. Samsung M7
 
@@ -53,10 +53,11 @@ Perfect for dual-use gaming and productivity with USB-C connectivity.
 
 A monitor that doubles as a smart TV. Streaming apps built in.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+4k+monitor+for+gaming&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best value:** LG 27UP600.
 **Best for productivity + gaming:** Dell S2722QC.
 **Best smart monitor:** Samsung M7.
+

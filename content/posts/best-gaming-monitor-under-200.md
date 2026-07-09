@@ -31,7 +31,7 @@ Finding a good gaming monitor under $200 is easier than ever. Here are our top p
 
 The king of budget gaming monitors. IPS panel with 144Hz at an incredible price.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+gaming+monitor+under+200&tag=laureanoeng-21)
 
 ## 2. MSI G244F
 
@@ -42,7 +42,7 @@ The king of budget gaming monitors. IPS panel with 144Hz at an incredible price.
 
 Smooth 170Hz refresh rate makes competitive gaming feel incredible.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+gaming+monitor+under+200&tag=laureanoeng-21)
 
 ## 3. Sceptre E248B
 
@@ -53,10 +53,11 @@ Smooth 170Hz refresh rate makes competitive gaming feel incredible.
 
 The cheapest 165Hz monitor you can buy. Great for tight budgets.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+gaming+monitor+under+200&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** AOC 24G2 — the benchmark for budget monitors.
 **Best for competitive:** MSI G244F — 170Hz on a budget.
 **Best ultra-budget:** Sceptre E248B.
+

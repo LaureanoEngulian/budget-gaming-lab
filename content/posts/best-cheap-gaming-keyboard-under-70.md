@@ -32,7 +32,7 @@ Mechanical keyboards used to cost a fortune. Not anymore. Here are the best gami
 
 The best entry-level mechanical keyboard. Bombproof build quality.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+keyboard+under+70&tag=laureanoeng-21)
 
 ## 2. HyperX Alloy Core
 
@@ -43,7 +43,7 @@ The best entry-level mechanical keyboard. Bombproof build quality.
 
 HyperX's membrane keyboard punches above its weight with great build and features.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+keyboard+under+70&tag=laureanoeng-21)
 
 ## 3. Tecware Phantom 87
 
@@ -54,10 +54,11 @@ HyperX's membrane keyboard punches above its weight with great build and feature
 
 Hot-swappable at this price is incredible. Swap switches without soldering.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+keyboard+under+70&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best mechanical under $70:** Redragon K552.
 **Best compact:** Royal Kludge RK61.
 **Best for quiet gaming:** HyperX Alloy Core.
+

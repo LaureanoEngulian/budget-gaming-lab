@@ -33,7 +33,7 @@ Starting a stream doesn't require a $2000 setup. Here's a complete budget stream
 
 The best budget streaming microphone. Sounds way better than its price suggests.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+streaming+setup&tag=laureanoeng-21)
 
 ## 2. Logitech C270 Webcam
 
@@ -44,7 +44,7 @@ The best budget streaming microphone. Sounds way better than its price suggests.
 
 Add good lighting and this webcam looks surprisingly decent.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+streaming+setup&tag=laureanoeng-21)
 
 ## 3. GVM LED Panel
 
@@ -55,8 +55,9 @@ Add good lighting and this webcam looks surprisingly decent.
 
 Good lighting makes any webcam look better. Best value upgrade for streaming.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+streaming+setup&tag=laureanoeng-21)
 
 ## Verdict
 
 This entire setup costs under $200 and will have you looking and sounding professional. Upgrade one piece at a time as you grow.
+

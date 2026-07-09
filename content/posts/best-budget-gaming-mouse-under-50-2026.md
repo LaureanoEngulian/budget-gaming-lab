@@ -32,7 +32,7 @@ Looking for an affordable gaming mouse that doesn't feel cheap? You don't need t
 
 The Logitech G203 is the gold standard for budget gaming mice. Solid sensor, durable construction, and excellent software.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+under+50+2026&tag=laureanoeng-21)
 
 ## 2. Razer DeathAdder Essential
 
@@ -43,7 +43,7 @@ The Logitech G203 is the gold standard for budget gaming mice. Solid sensor, dur
 
 The iconic DeathAdder shape at a fraction of the cost. Perfect for palm grip users.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+under+50+2026&tag=laureanoeng-21)
 
 ## 3. SteelSeries Rival 3
 
@@ -54,7 +54,7 @@ The iconic DeathAdder shape at a fraction of the cost. Perfect for palm grip use
 
 TrueMove Core optical sensor delivers 1-to-1 tracking at an affordable price.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+under+50+2026&tag=laureanoeng-21)
 
 ## 4. HyperX Pulsefire Core
 
@@ -65,7 +65,7 @@ TrueMove Core optical sensor delivers 1-to-1 tracking at an affordable price.
 
 HyperX quality in a budget-friendly package.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+under+50+2026&tag=laureanoeng-21)
 
 ## 5. Corsair Katar Pro XT
 
@@ -76,10 +76,11 @@ HyperX quality in a budget-friendly package.
 
 Best value pick. 18,000 DPI sensor at just $25.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+under+50+2026&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** Logitech G203 Lightsync — reliable and customizable.
 **Best for FPS:** SteelSeries Rival 3 — lightweight with precise tracking.
 **Best value:** Corsair Katar Pro XT — incredible features for the price.
+

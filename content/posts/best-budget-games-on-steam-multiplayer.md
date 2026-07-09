@@ -31,7 +31,7 @@ Playing with friends doesn't have to be expensive. These multiplayer games on St
 
 The most fun you can have screaming at your friends. Goofy horror at its best.
 
-[Check on Steam →](https://store.steampowered.com)
+[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
 
 ## 2. Valheim
 
@@ -42,7 +42,7 @@ The most fun you can have screaming at your friends. Goofy horror at its best.
 
 One of the best survival games ever made. Play with up to 10 friends.
 
-[Check on Steam →](https://store.steampowered.com)
+[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
 
 ## 3. Deep Rock Galactic
 
@@ -53,10 +53,11 @@ One of the best survival games ever made. Play with up to 10 friends.
 
 ROCK AND STONE! Best co-op shooter on the market.
 
-[Check on Steam →](https://store.steampowered.com)
+[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
 
 ## Verdict
 
 **Best with friends:** Lethal Company.
 **Best survival:** Valheim.
 **Best co-op shooter:** Deep Rock Galactic.
+

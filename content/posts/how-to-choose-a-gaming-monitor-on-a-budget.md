@@ -50,3 +50,4 @@ Choosing a gaming monitor can be overwhelming. Here's what matters on a budget.
 ## Verdict
 
 For most budget gamers: **1080p + 144Hz + IPS** is the sweet spot. Don't overspend on specs your GPU can't drive.
+

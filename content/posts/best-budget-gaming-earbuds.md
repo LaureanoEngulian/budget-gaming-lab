@@ -31,7 +31,7 @@ Earbuds are more convenient than headsets for portable gaming and casual play. H
 
 Best all-around gaming earbuds with low latency for competitive gaming.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+earbuds&tag=laureanoeng-21)
 
 ## 2. KZ ZSN Pro X
 
@@ -42,7 +42,7 @@ Best all-around gaming earbuds with low latency for competitive gaming.
 
 Audiophile-quality sound for less than $30. Best for music + gaming.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+earbuds&tag=laureanoeng-21)
 
 ## 3. HyperX Cloud Earbuds
 
@@ -53,10 +53,11 @@ Audiophile-quality sound for less than $30. Best for music + gaming.
 
 Perfect for Nintendo Switch gaming. Lightweight and comfortable.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+earbuds&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best low latency:** Razer Hammerhead X.
 **Best sound quality:** KZ ZSN Pro X.
 **Best for Switch:** HyperX Cloud Earbuds.
+

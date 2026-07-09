@@ -33,7 +33,7 @@ Some of the best gaming experiences cost less than a pizza. Here are the best St
 
 The best $5 you'll ever spend on gaming. Simple concept, infinite replayability.
 
-[Check on Steam →](https://store.steampowered.com)
+[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
 
 ## 2. Stardew Valley
 
@@ -45,7 +45,7 @@ The best $5 you'll ever spend on gaming. Simple concept, infinite replayability.
 
 Harvest Moon meets RPG. Endless content from a single developer.
 
-[Check on Steam →](https://store.steampowered.com)
+[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
 
 ## 3. Hollow Knight
 
@@ -57,10 +57,11 @@ Harvest Moon meets RPG. Endless content from a single developer.
 
 Best metroidvania ever made. Watch for sales.
 
-[Check on Steam →](https://store.steampowered.com)
+[Check on Steam →](https://store.steampowered.com/?tag=laureanoeng-21
 
 ## Verdict
 
 **Best value:** Vampire Survivors.
 **Most relaxing:** Stardew Valley.
 **Best exploration:** Terraria.
+

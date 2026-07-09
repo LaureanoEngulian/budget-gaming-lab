@@ -31,7 +31,7 @@ A 144Hz monitor is the single best upgrade for competitive gaming. Here are the 
 
 Upgraded version of the classic 24G2. Slightly faster and better build.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+144hz+monitor+under+250&tag=laureanoeng-21)
 
 ## 2. Dell S2422HG
 
@@ -42,7 +42,7 @@ Upgraded version of the classic 24G2. Slightly faster and better build.
 
 Excellent curved option with deep blacks and smooth gameplay.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+144hz+monitor+under+250&tag=laureanoeng-21)
 
 ## 3. Gigabyte G24F 2
 
@@ -53,10 +53,11 @@ Excellent curved option with deep blacks and smooth gameplay.
 
 Best colors in the budget range. Great for gaming and content consumption.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+144hz+monitor+under+250&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** AOC 24G2SP — the go-to recommendation.
 **Best curved:** Dell S2422HG.
 **Best colors:** Gigabyte G24F 2.
+

@@ -72,3 +72,4 @@ Building your first gaming PC is easier than you think. Follow this step-by-step
 - **Boot loop:** Reseat RAM, clear CMOS
 
 Building a PC is 90% confidence. Take your time and enjoy the process.
+

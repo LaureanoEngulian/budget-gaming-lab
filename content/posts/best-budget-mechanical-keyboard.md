@@ -31,7 +31,7 @@ Mechanical keyboards are worth the upgrade. Here are the best budget options for
 
 The best budget mechanical keyboard. Hot-swappable means you can change switches without soldering.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+mechanical+keyboard&tag=laureanoeng-21)
 
 ## 2. Redragon K552 Kumara
 
@@ -42,7 +42,7 @@ The best budget mechanical keyboard. Hot-swappable means you can change switches
 
 The entry-level king. Start here if you're not sure about mechanical keyboards.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+mechanical+keyboard&tag=laureanoeng-21)
 
 ## 3. Royal Kludge RK61
 
@@ -53,10 +53,11 @@ The entry-level king. Start here if you're not sure about mechanical keyboards.
 
 Perfect for minimalists or gamers who want more desk space.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+mechanical+keyboard&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** Keychron C1 Pro — hot-swappable and great build.
 **Best entry-level:** Redragon K552.
 **Best compact:** Royal Kludge RK61.
+

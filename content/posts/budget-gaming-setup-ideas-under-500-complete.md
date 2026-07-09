@@ -53,3 +53,4 @@ This runs Fortnite, Valorant, Apex, and most esports titles at 100+ FPS.
 ## Verdict
 
 You can get a fully functional gaming setup for under $500 that plays modern games. Start with the PC or console and upgrade over time.
+

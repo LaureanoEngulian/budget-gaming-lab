@@ -31,7 +31,7 @@ Curved monitors provide a more immersive gaming experience. Here are the best bu
 
 The most popular budget curved gaming monitor. Excellent value.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+curved+gaming+monitor&tag=laureanoeng-21)
 
 ## 2. MSI Optix G24C4
 
@@ -42,7 +42,7 @@ The most popular budget curved gaming monitor. Excellent value.
 
 Sleek design with good performance. Great for FPS and racing games.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+curved+gaming+monitor&tag=laureanoeng-21)
 
 ## 3. Samsung CRG5
 
@@ -53,10 +53,11 @@ Sleek design with good performance. Great for FPS and racing games.
 
 The cheapest 240Hz curved monitor. Perfect for competitive gamers.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+curved+gaming+monitor&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best value:** AOC C24G1.
 **Best for competitive:** Samsung CRG5 — 240Hz on a budget.
 **Best design:** MSI Optix G24C4.
+

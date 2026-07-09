@@ -32,7 +32,7 @@ A good headset can make or break your gaming experience. Here are the best optio
 
 The most comfortable budget headset. Lightweight, great sound, and reliable.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+headset+under+60&tag=laureanoeng-21)
 
 ## 2. Razer BlackShark V2 X
 
@@ -43,7 +43,7 @@ The most comfortable budget headset. Lightweight, great sound, and reliable.
 
 Razer's competitive FPS headset at a budget price. Excellent directional audio.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+headset+under+60&tag=laureanoeng-21)
 
 ## 3. Logitech G335
 
@@ -54,10 +54,11 @@ Razer's competitive FPS headset at a budget price. Excellent directional audio.
 
 Perfect for casual gaming. Light enough to wear for hours.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+headset+under+60&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** HyperX Cloud Stinger — comfort king.
 **Best for competitive:** Razer BlackShark V2 X.
 **Best budget pick:** Corsair HS35.
+

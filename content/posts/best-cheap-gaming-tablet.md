@@ -31,7 +31,7 @@ Tablets are great for casual gaming, emulation, and cloud streaming. Here are th
 
 Best all-around budget tablet for casual gaming and streaming.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+tablet&tag=laureanoeng-21)
 
 ## 2. Samsung Galaxy Tab A9+
 
@@ -42,7 +42,7 @@ Best all-around budget tablet for casual gaming and streaming.
 
 Higher refresh rate makes gaming feel smoother. Good for PS2/GameCube emulation.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+tablet&tag=laureanoeng-21)
 
 ## 3. Amazon Fire HD 10
 
@@ -53,10 +53,11 @@ Higher refresh rate makes gaming feel smoother. Good for PS2/GameCube emulation.
 
 Install Google Play on it and get a great $100 tablet.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+gaming+tablet&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best all-around:** Lenovo Tab M10 Plus.
 **Best for emulation:** Samsung Tab A9+.
 **Best ultra-budget:** Amazon Fire HD 10.
+

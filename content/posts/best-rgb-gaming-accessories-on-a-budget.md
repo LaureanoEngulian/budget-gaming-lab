@@ -31,7 +31,7 @@ RGB makes everything better. Here are the best budget RGB accessories for your g
 
 The best budget LED strip. Music sync feature is amazing for gaming vibes.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+rgb+gaming+accessories+on+a+budget&tag=laureanoeng-21)
 
 ## 2. Phanteks Halos Digital
 
@@ -42,7 +42,7 @@ The best budget LED strip. Music sync feature is amazing for gaming vibes.
 
 Add RGB to your existing fans without buying new ones.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+rgb+gaming+accessories+on+a+budget&tag=laureanoeng-21)
 
 ## 3. Airgoo LED Strip
 
@@ -53,10 +53,11 @@ Add RGB to your existing fans without buying new ones.
 
 Perfect for beginners who want to try RGB without investment.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+rgb+gaming+accessories+on+a+budget&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** Govee RGBIC Strip.
 **Best for PC interior:** Phanteks Halos.
 **Best ultra-budget:** Airgoo LED Strip.
+

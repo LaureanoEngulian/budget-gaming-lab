@@ -56,3 +56,4 @@ Hundreds of hours of free content. Gacha is optional.
 **Best competitive:** Marvel Rivals.
 **Best casual:** Fortnite.
 **Best solo experience:** Genshin Impact.
+

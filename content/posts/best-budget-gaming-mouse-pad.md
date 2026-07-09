@@ -31,7 +31,7 @@ A good mouse pad is one of the cheapest upgrades you can make to your gaming set
 
 The most popular mouse pad in esports. Millions of pros use it.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+pad&tag=laureanoeng-21)
 
 ## 2. HyperX Fury S
 
@@ -42,7 +42,7 @@ The most popular mouse pad in esports. Millions of pros use it.
 
 HyperX's Fury S offers a great balance between speed and control.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+pad&tag=laureanoeng-21)
 
 ## 3. Corsair MM300
 
@@ -53,10 +53,11 @@ HyperX's Fury S offers a great balance between speed and control.
 
 The MM300 is perfect for low-DPI gamers who need lots of space.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+mouse+pad&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best all-around:** SteelSeries QcK — cheap, reliable, proven.
 **Best extended:** Corsair MM300.
 **Best value:** HyperX Fury S.
+

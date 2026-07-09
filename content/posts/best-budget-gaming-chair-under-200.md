@@ -31,7 +31,7 @@ A good gaming chair is an investment in your health. Here are the best options u
 
 Best ergonomics in the budget range. Your back will thank you.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+chair+under+200&tag=laureanoeng-21)
 
 ## 2. GTRACING B09
 
@@ -42,7 +42,7 @@ Best ergonomics in the budget range. Your back will thank you.
 
 Solid all-rounder with great padding for long sessions.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+chair+under+200&tag=laureanoeng-21)
 
 ## 3. RESPAWN 100
 
@@ -53,10 +53,11 @@ Solid all-rounder with great padding for long sessions.
 
 Fabric option for those who don't want leather. More breathable.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+chair+under+200&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best ergonomics:** Hbada E1.
 **Most comfortable padding:** GTRACING B09.
 **Best fabric option:** RESPAWN 100.
+

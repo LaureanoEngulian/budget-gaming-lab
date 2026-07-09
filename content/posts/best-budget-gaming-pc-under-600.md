@@ -41,10 +41,11 @@ This build handles 1080p gaming at 60+ FPS in most titles.
 
 Not as good value as building, but zero assembly required.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+pc+under+600&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best performance:** Build it yourself with RX 6600.
 **Best for beginners:** Skytech prebuilt.
 **Best ultra-budget:** Used office PC + GPU upgrade.
+

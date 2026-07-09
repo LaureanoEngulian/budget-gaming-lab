@@ -32,7 +32,7 @@ Upgrading your GPU gives the biggest performance boost for gaming. Here are the 
 
 The king of budget 1080p gaming. Handles everything at high settings.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gpu+for+1080p+gaming&tag=laureanoeng-21)
 
 ## 2. NVIDIA RTX 3050
 
@@ -44,7 +44,7 @@ The king of budget 1080p gaming. Handles everything at high settings.
 
 Choose this if you stream or want DLSS upscaling.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gpu+for+1080p+gaming&tag=laureanoeng-21)
 
 ## 3. Intel Arc A750
 
@@ -56,10 +56,11 @@ Choose this if you stream or want DLSS upscaling.
 
 Intel's Arc has matured well. Great option if you play modern games.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gpu+for+1080p+gaming&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best raw performance:** RX 6600.
 **Best for streaming:** RTX 3050.
 **Best value (used):** GTX 1660 Super (~$120).
+

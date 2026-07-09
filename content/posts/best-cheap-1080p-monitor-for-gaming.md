@@ -31,7 +31,7 @@ tags:
 
 The best 1080p gaming monitor you can buy. Worth the extra over cheaper options.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+1080p+monitor+for+gaming&tag=laureanoeng-21)
 
 ## 2. MSI G244F
 
@@ -42,7 +42,7 @@ The best 1080p gaming monitor you can buy. Worth the extra over cheaper options.
 
 Slightly faster refresh than the AOC at a slightly lower price.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+1080p+monitor+for+gaming&tag=laureanoeng-21)
 
 ## 3. Sceptre E248B
 
@@ -53,10 +53,11 @@ Slightly faster refresh than the AOC at a slightly lower price.
 
 The cheapest 165Hz monitor. Amazing for the price but compromises on panel quality.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+cheap+1080p+monitor+for+gaming&tag=laureanoeng-21)
 
 ## Verdict
 
 **Best overall:** AOC 24G2SP.
 **Best value:** MSI G244F.
 **Cheapest 165Hz:** Sceptre E248B.
+

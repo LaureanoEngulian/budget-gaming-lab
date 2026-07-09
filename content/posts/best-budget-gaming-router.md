@@ -32,7 +32,7 @@ You don't need an expensive router for great gaming performance. Here are the be
 
 The cheapest WiFi 6 router. Massive upgrade over ISP routers.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+router&tag=laureanoeng-21)
 
 ## 2. ASUS RT-AX1800S
 
@@ -43,7 +43,7 @@ The cheapest WiFi 6 router. Massive upgrade over ISP routers.
 
 ASUS routers have the best software. AiMesh lets you add more ASUS routers later.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+router&tag=laureanoeng-21)
 
 ## 3. TP-Link Archer AX20
 
@@ -54,7 +54,7 @@ ASUS routers have the best software. AiMesh lets you add more ASUS routers later
 
 Better coverage than the AX10 thanks to four antennas.
 
-[Check price on Amazon →](https://amazon.com)
+[Check price on Amazon →](https://www.amazon.es/s?k=best+budget+gaming+router&tag=laureanoeng-21)
 
 ## Quick Tip
 
@@ -65,3 +65,4 @@ For the best gaming performance, always use a wired ethernet connection. A $60 r
 **Best value:** TP-Link Archer AX10.
 **Best software:** ASUS RT-AX1800S.
 **Best coverage:** TP-Link Archer AX20.
+

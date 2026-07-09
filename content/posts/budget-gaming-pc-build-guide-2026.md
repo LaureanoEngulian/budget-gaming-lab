@@ -46,3 +46,4 @@ Building your own gaming PC saves money and gives you better performance. Here's
 - Phillips #2 screwdriver
 - Cable ties
 - Thermal paste (if CPU cooler doesn't have pre-applied)
+
