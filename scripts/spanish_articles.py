@@ -6,25 +6,42 @@ TAG = "laureanoeng-21"
 START_DATE = datetime(2026, 7, 9)
 
 ASINS = {
+    # Ratones
     "Logitech G203 Lightsync": "B07W5JKFQC",
     "Logitech G203": "B07W5JKFQC",
     "Razer DeathAdder Essential": "B092R5MCB3",
     "SteelSeries Rival 3": "B082XQHPCL",
+    "HyperX Pulsefire Core": "B07H3GFJJ2",
+    "Corsair Katar Pro XT": "B08SHCKVTG",
+    # Teclados
     "Redragon K552": "B016MAK38U",
     "Redragon K552 Kumara": "B016MAK38U",
     "Royal Kludge RK61": "B09JK2DSSZ",
+    "HyperX Alloy Core": "B08934QWQY",
+    "Keychron C1 Pro": "B0DYJQ5Z2Z",
+    # Auriculares
     "HyperX Cloud Stinger": "B07Y8SDD2N",
     "Razer BlackShark V2 X": "B089SSFV85",
     "Logitech G335": "B07W6J6TG5",
     "Corsair HS35": "B0CZTN664T",
+    # Alfombrillas
     "SteelSeries QcK": "B000UEZ36W",
     "Corsair MM300": "B08JH7H1NG",
+    "HyperX Fury S": "B07CZ9NPKV",
+    # Monitores
     "AOC 24G2": "B07Y3RYLVH",
     "AOC 24G2SP": "B09WF96MFV",
     "LG 27UP600": "B096BCKDZC",
     "Dell S2722QC": "B09CGY99X5",
     "AOC C24G1": "B07DTN4BM8",
+    "MSI G244F": "B0CB8NMLQK",
+    "ASUS VP249QGR": "B082NWNK1F",
+    "Sceptre E248B": "B088VMY23M",
+    "Gigabyte G24F 2": "B0BPCLL9V6",
+    # Webcam
     "Logitech C270": "B07F7VQJRG",
+    # Micrófono
+    "FIFINE K669B Micrófono": "B0BVXQFCSB",
 }
 
 def amz(p):

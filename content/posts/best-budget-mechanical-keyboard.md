@@ -21,9 +21,7 @@ Un teclado mecánico no es un lujo, es una herramienta que usas cada día y que 
 - **Desventajas:** Un poco más caro
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=keychron+c1+pro&tag=laureanoeng-21)
-
-El C1 Pro es el teclado que más recomendamos a quienes quieren algo más que un teclado básico. Los switches Gateron intercambiables en caliente te permiten probar diferentes tipos sin soldar, y el soporte QMK/VIA te da un control total sobre cada tecla. La construcción es sólida, el perfil bajo queda elegante y la conectividad USB-C es moderna. Es un poco más caro, pero cada euro se nota en calidad y posibilidades.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0DYJQ5Z2Z?tag=laureanoeng-21)
 
 
 

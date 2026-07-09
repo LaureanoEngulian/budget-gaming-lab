@@ -33,9 +33,7 @@ La alfombrilla es el componente más infravalorado de cualquier setup. Puedes te
 - **Desventajas:** Atrapa polvo
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+fury+s&tag=laureanoeng-21)
-
-La Fury S coge lo mejor de la QcK y le añade bordes cosidos que evitan que se deshilache con el uso diario. La base de goma antideslizante es de las mejores que hemos probado — literalmente no se mueve ni a base de movimientos bruscos. La superficie tiene un grano finísimo que ofrece más control que velocidad pura, ideal si juegas con sensibilidades medias y necesitas precisión milimétrica. Su único punto débil es que la tela atrapa bastante el polvo y requiere limpieza semanal.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07CZ9NPKV?tag=laureanoeng-21)
 
 
 

@@ -33,9 +33,7 @@ tags:
 - **Desventajas:** Soporte básico
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=msi+g244f&tag=laureanoeng-21)
-
-El monitor que ofrece la tasa de refresco más alta de la lista con 170Hz por menos de 200€. La tecnología Rapid IPS de MSI ofrece una respuesta excelente con apenas ghosting, y los modos de juego preconfigurados (FPS, RPG, Racing) optimizan la imagen según lo que juegues. El soporte es básico, pero la pantalla es tan buena que merece la pena invertir en un brazo monitor. Ideal para gamers competitivos.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0CB8NMLQK?tag=laureanoeng-21)
 
 
 
@@ -47,9 +45,7 @@ El monitor que ofrece la tasa de refresco más alta de la lista con 170Hz por me
 - **Desventajas:** Panel VA, colores medios
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=sceptre+e248b&tag=laureanoeng-21)
-
-El monitor 1080p más barato con 165Hz del mercado. El panel VA ofrece negros profundos que mejoran la experiencia en juegos oscuros o de terror, y los altavoces integrados son útiles para jugar sin auriculares. La calidad de imagen no es tan buena como la de un IPS, pero por 140€ tener 165Hz es una oferta imbatible. La opción perfecta para quienes priorizan la fluidez sobre la precisión de color.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B088VMY23M?tag=laureanoeng-21)
 
 
 

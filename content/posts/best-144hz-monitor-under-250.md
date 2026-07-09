@@ -47,9 +47,7 @@ Dar el salto de 60Hz a 144Hz es como quitarse unas gafas sucias: de repente todo
 - **Desventajas:** Un poco más caro
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=gigabyte+g24f+2&tag=laureanoeng-21)
-
-Si eres de los que valora la precisión de color, el G24F 2 es tu monitor. Viene calibrado de fábrica con una cobertura sRGB excelente, lo que lo convierte también en un monitor válido para edición de fotografía o diseño. Los 165Hz son fluidos, el hub USB integrado es práctico para conectar periféricos, y el modo de juego incluye un crosshair virtual que ayuda en los FPS. Es el más caro de la lista, pero el que mejor pinta tiene en el escritorio.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0BPCLL9V6?tag=laureanoeng-21)
 
 
 

@@ -60,9 +60,7 @@ El ratón es tu principal herramienta de batalla. Da igual que tengas un PC de 2
 - **Desventajas:** Software limitado
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+pulsefire+core&tag=laureanoeng-21)
-
-Un ratón hecho para los que apoyan toda la palma. La forma está claramente pensada para agarre palma, con un perfil alto que rellena bien la mano y permite mantenerla relajada horas enteras. Los 87 gramos están bien distribuidos y el sensor de 6.200 DPI responde sin problemas. El software no es el más completo del mercado, pero para configurar DPI y polling rate sobra. Un caballo de batalla discreto que cumple sin florituras.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B07H3GFJJ2?tag=laureanoeng-21)
 
 
 
@@ -75,9 +73,7 @@ Un ratón hecho para los que apoyan toda la palma. La forma está claramente pen
 - **Desventajas:** Construcción básica, sin RGB
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=corsair+katar+pro+xt&tag=laureanoeng-21)
-
-¿18.000 DPI por 25€? Sí, has leído bien. El Katar Pro XT es la prueba de que no hace falta gastar mucho para tener especificaciones de otro nivel. Con solo 73 gramos se siente casi ingrávido en la mano, perfecto para quienes juegan con sensibilidad baja y necesitan movimientos amplios. La construcción es justa (se nota el precio en los plásticos) pero el sensor es una locura para lo que cuesta. Ideal para gamers con presupuesto muy ajustado que no quieren renunciar a prestaciones altas.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08SHCKVTG?tag=laureanoeng-21)
 
 
 

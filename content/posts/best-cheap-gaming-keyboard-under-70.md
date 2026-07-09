@@ -34,9 +34,7 @@ Un teclado mecánico cambia tu forma de jugar. Literalmente. La diferencia entre
 - **Desventajas:** No es mecánico
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=hyperx+alloy+core&tag=laureanoeng-21)
-
-A veces no quieres molestar a toda la casa con el ruido de los switches mecánicos. El Alloy Core es la opción silenciosa que no renuncia a una buena experiencia de escritura. Es de membrana, sí, pero con un tacto muy agradable, resistencia a derrames (esa cerveza que se te cae un sábado) y un RGB vibrante que ilumina bien las teclas. Para juegos casuales y uso diario es más que suficiente, y el ruido mínimo lo convierte en el favorito para oficina o habitaciones compartidas.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B08934QWQY?tag=laureanoeng-21)
 
 
 
@@ -64,9 +62,7 @@ Lo mejor de este teclado es que puedes cambiar los switches sin soldar absolutam
 - **Desventajas:** Un poco más caro
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=keychron+c1+pro&tag=laureanoeng-21)
-
-Keychron ha hecho lo imposible: meter QMK/VIA en un teclado de 60€. Esto significa que puedes reasignar CADA tecla, crear macros, ajustar capas y personalizar la iluminación al milímetro. Los switches Gateron intercambiables en caliente son suaves y duraderos, y la construcción con marco de plástico grueso se siente sólida. Es un poco más caro que sus rivales, pero si eres de los que les gusta trastear con la configuración hasta dejarla perfecta, no hay otra opción en este rango de precio.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0DYJQ5Z2Z?tag=laureanoeng-21)
 
 
 

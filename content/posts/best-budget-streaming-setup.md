@@ -21,9 +21,7 @@ Empezar a hacer streaming puede parecer caro: micrófono, cámara, iluminación,
 - **Desventajas:** Capta ruido ambiente
 
 
-[**Ver en Amazon →**](https://www.amazon.es/s?k=fifine+k669b+micrófono&tag=laureanoeng-21)
-
-Por 30€, el FIFINE K669B ofrece una calidad de sonido que parece de un micrófono de 100€. Es un condensador USB que funciona en cuanto lo enchufas, sin necesidad de interfaces de audio ni configuración complicada. La cápsula capta tu voz con claridad y calidez, aunque también coge ruido ambiente si no tienes la habitación en silencio. Para empezar a streamear o grabar vídeos, no hay mejor opción en este rango de precio.
+[**Ver en Amazon →**](https://www.amazon.es/dp/B0BVXQFCSB?tag=laureanoeng-21)
 
 
 
