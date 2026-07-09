@@ -11,6 +11,8 @@ tags:
     - "PC"
 ---
 
+No hace falta gastar ni un céntimo para jugar a algunos de los mejores títulos del mercado. Los juegos free-to-play han evolucionado hasta un punto en el que la calidad es equiparable a los juegos de pago, con actualizaciones constantes, comunidades enormes y cientos de horas de contenido. Tanto si buscas acción competitiva, exploración tranquila o cooperativo con amigos, hay un juego gratuito esperándote. Estos son los imprescindibles de 2026.
+
 ## Comparativa Rápida
 
 | Juego | Género | Plataforma |

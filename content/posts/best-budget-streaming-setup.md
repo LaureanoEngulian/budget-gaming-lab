@@ -11,6 +11,8 @@ tags:
     - "económico"
 ---
 
+Empezar a hacer streaming puede parecer caro: micrófono, cámara, iluminación, capturadora... pero la realidad es que puedes montar un setup de streaming decente por menos de 100€. La clave está en saber dónde invertir: un buen micrófono hará más por tu calidad que una cámara cara, y una iluminación adecuada transforma cualquier webcam básica en algo profesional. Aquí tienes el equipo esencial para empezar a streamear sin arruinarte.
+
 ## 1. FIFINE K669B Micrófono
 
 - **Precio:** ~30€
@@ -20,6 +22,8 @@ tags:
 
 
 [**Ver en Amazon →**](https://www.amazon.es/s?k=fifine+k669b+micrófono&tag=laureanoeng-21)
+
+Por 30€, el FIFINE K669B ofrece una calidad de sonido que parece de un micrófono de 100€. Es un condensador USB que funciona en cuanto lo enchufas, sin necesidad de interfaces de audio ni configuración complicada. La cápsula capta tu voz con claridad y calidez, aunque también coge ruido ambiente si no tienes la habitación en silencio. Para empezar a streamear o grabar vídeos, no hay mejor opción en este rango de precio.
 
 
 
@@ -33,6 +37,8 @@ tags:
 
 [**Ver en Amazon →**](https://www.amazon.es/s?k=logitech+c270+webcam&tag=laureanoeng-21)
 
+La C270 es la webcam básica por excelencia. Ofrece 720p, que no es HD de primera calidad, pero con una buena iluminación (ahí entra el panel LED) se ve más que aceptable para un stream principiante. El enfoque fijo evita que la cámara busque el foco constantemente, y el tamaño compacto se sujeta fácilmente al monitor. No esperes calidad de DSLR, pero para empezar a enseñar tu cara en Twitch, es perfecta.
+
 
 
 ## 3. Panel LED GVM
@@ -44,6 +50,8 @@ tags:
 
 
 [**Ver en Amazon →**](https://www.amazon.es/s?k=panel+led+gvm&tag=laureanoeng-21)
+
+El secreto para que cualquier webcam se vea bien es la iluminación, y este panel LED GVM es la solución perfecta y barata. Tiene temperatura de color ajustable (de fría a cálida), brillo regulable y un difusor que suaviza la luz para que no te veas lavado. Es pequeño pero potente, y se coloca fácilmente detrás del monitor. Con este panel y la C270, tu stream se verá mucho más profesional de lo que has pagado.
 
 
 

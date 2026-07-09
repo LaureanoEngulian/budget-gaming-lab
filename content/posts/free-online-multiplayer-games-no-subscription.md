@@ -11,6 +11,8 @@ tags:
     - "online"
 ---
 
+¿Sabías que no necesitas pagar PlayStation Plus, Xbox Live Gold ni ninguna suscripción para jugar online en PC? El PC es la plataforma más libre para el gaming online, y hay juegos multijugador gratuitos increíbles que no te piden ni un céntimo al mes. Desde battle royales masivos hasta shooters de héroes, tienes un catálogo enorme esperándote sin necesidad de sacar la cartera.
+
 No necesitas pagar para jugar online. Estos son los mejores juegos multijugador gratuitos.
 
 ## Comparativa

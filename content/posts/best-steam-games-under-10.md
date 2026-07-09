@@ -11,6 +11,8 @@ tags:
     - "PC"
 ---
 
+Hay un mito de que los juegos baratos son malos. Mentira. Algunos de los juegos más innovadores, adictivos y queridos de la última década cuestan menos que un menú del día. Steam está lleno de tesoros por menos de 10€ que te darán decenas o cientos de horas de diversión. Hemos seleccionado los mejores juegos económicos de Steam para que tu cartera no sufra mientras tu biblioteca crece.
+
 | Juego | Precio | Género | Horas de diversión |
 |-------|--------|---------|-------------------|
 | Vampire Survivors | ~5€ | Roguelite | 50+ horas |

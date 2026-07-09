@@ -11,6 +11,8 @@ tags:
     - "principiantes"
 ---
 
+Montar un PC puede parecer una tarea de ingeniería si nunca lo has hecho, pero la realidad es más parecida a montar muebles de IKEA: todo encaja de una sola forma, solo necesitas las herramientas adecuadas y un poco de paciencia. En esta guía te llevamos de la mano desde cero: desde las herramientas que necesitas hasta el primer encendido, pasando por la instalación de cada componente con pasos claros. Al final del proceso, tendrás un PC gaming que funciona y sabrás exactamente cómo hacerlo de nuevo.
+
 ## Lo que necesitas
 
 - **Herramientas:** Destornillador Phillips #2, bridas

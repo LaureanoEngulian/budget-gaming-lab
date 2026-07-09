@@ -11,6 +11,8 @@ tags:
     - "DIY"
 ---
 
+Montar tu propio PC gaming no es tan difícil como parece. De hecho, es una de las experiencias más gratificantes que puedes tener como jugador: eliges cada pieza, aprendes cómo funciona todo y cuando pulsas el botón de encendido por primera vez y ves la BIOS en pantalla, la satisfacción es inmensa. Además, ahorras entre un 20% y un 30% comparado con comprar un PC ya montado. Aquí tienes todo lo que necesitas, pieza a pieza, paso a paso.
+
 ## Lista de Piezas Recomendada (500-600€)
 
 | Componente | Modelo | Precio |

@@ -11,6 +11,8 @@ tags:
     - "baratos"
 ---
 
+Jugar con amigos multiplica la diversión por diez. Pero no todo el mundo tiene 70€ para gastar en el último Call of Duty. Por suerte, Steam está lleno de juegos multijugador baratos que ofrecen horas y horas de risas, gritos y momentos inolvidables. Desde el terror cómico de Lethal Company hasta la épica vikinga de Valheim, hemos recopilado los mejores títulos para jugar con amigos sin arruinaros.
+
 ## Comparativa
 
 | Juego | Precio | Jugadores | Ideal para |

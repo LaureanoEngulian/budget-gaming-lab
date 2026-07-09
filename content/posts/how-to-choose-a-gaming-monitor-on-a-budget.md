@@ -11,6 +11,8 @@ tags:
     - "económico"
 ---
 
+Comprar un monitor gaming puede ser abrumador: resolución, tasa de refresco, tipo de panel, tiempo de respuesta, HDR, FreeSync, G-Sync... parece que necesitas un máster para no equivocarte. La realidad es más sencilla: solo necesitas entender tres cosas (resolución, refresco y panel) y saber cuál es tu prioridad. En esta guía te explicamos todo lo que necesitas saber para elegir el monitor perfecto para tu presupuesto, sin tecnicismos innecesarios y con ejemplos reales.
+
 ## Especificaciones Clave
 
 ### Resolución

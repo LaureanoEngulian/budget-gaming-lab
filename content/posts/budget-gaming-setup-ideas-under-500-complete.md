@@ -11,6 +11,8 @@ tags:
     - "económico"
 ---
 
+¿Te imaginas tener un setup gaming completo — PC, monitor, ratón, teclado, auriculares y alfombrilla — por menos de 500€? Pues sí es posible, y no estamos hablando de componentes de segunda mano de dudosa procedencia. La clave está en combinar piezas de PC usadas pero fiables (como un Optiplex de oficina con una GPU añadida) con periféricos nuevos y económicos. Aquí tienes dos configuraciones completas que demuestran que el gaming no es solo para ricos.
+
 ## Setup Completo por 500€
 
 | Componente | Producto | Precio |

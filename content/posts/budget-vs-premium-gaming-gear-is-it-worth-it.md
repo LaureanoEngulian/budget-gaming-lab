@@ -11,6 +11,8 @@ tags:
     - "comparativa"
 ---
 
+Cuando empiezas en el gaming, siempre surge la misma duda: ¿merece la pena pagar el doble por la versión premium? La respuesta corta es: depende. En algunos componentes, el salto a premium apenas se nota. En otros, tu espalda o tu experiencia de juego te lo agradecerán. Hemos comparado productos económicos y premium cara a cara para que sepas exactamente dónde ahorrar y dónde vale la pena estirar el presupuesto.
+
 No todo lo premium merece el sobreprecio. Aquí te decimos dónde ahorrar y dónde vale la pena invertir.
 
 ## Dónde lo Económico es Suficiente

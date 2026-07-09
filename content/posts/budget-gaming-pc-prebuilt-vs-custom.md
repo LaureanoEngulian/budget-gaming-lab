@@ -11,6 +11,8 @@ tags:
     - "guía de compra"
 ---
 
+La gran pregunta que todo el mundo se hace cuando quiere un PC gaming: ¿me lo monto yo o lo compro ya hecho? Ambas opciones tienen sus ventajas y sus trampas. Montarlo tú mismo te da más rendimiento por euro y piezas de mejor calidad, pero requiere tiempo y paciencia. Comprarlo premontado es cómodo, pero a menudo llevan componentes de peor calidad y el rendimiento es menor. Hemos comparado ambas opciones con ejemplos reales para que puedas decidir con datos sobre la mesa.
+
 ## Comparativa de Costes (600€)
 
 ### Montaje Personal (~580€)

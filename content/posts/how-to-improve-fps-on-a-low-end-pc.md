@@ -11,6 +11,8 @@ tags:
     - "optimización"
 ---
 
+Tener un PC de gama baja no significa que tengas que conformarte con 20 FPS y todo al mínimo. Hay un montón de ajustes y trucos que puedes aplicar sin gastar un euro para ganar rendimiento en juegos. Desde configuraciones de Windows hasta las tecnologías de escalado como FSR, pasando por pequeños cambios en los ajustes gráficos que apenas afectan a la imagen pero duplican los FPS. Antes de plantearte comprar hardware nuevo, prueba estos consejos.
+
 No necesitas un PC nuevo para mejorar tu rendimiento en juegos.
 
 ## Ajustes de Software (Gratis)
