@@ -1,6 +1,7 @@
 baseURL: https://budget-gaming-lab.pages.dev
-locale: en-US
+locale: es-ES
 title: "Budget Gaming Lab"
+defaultContentLanguage: es
 theme: PaperMod
 
 pagination:
@@ -21,11 +22,11 @@ minify:
 params:
   env: production
   title: "Budget Gaming Lab"
-  description: "Best budget gaming gear reviews, guides, and deals. We help you build the best gaming setup without breaking the bank."
-  keywords: [Budget Gaming, Gaming Gear, Cheap Gaming PC, Gaming Mouse, Gaming Keyboard]
+  description: "Análisis, guías y ofertas de los mejores equipos gaming económicos. Te ayudamos a montar el mejor setup gaming sin gastar de más."
+  keywords: [Gaming Económico, Equipo Gaming, PC Gaming Barato, Ratón Gaming, Teclado Gaming]
   author: "Budget Gaming Lab"
   images: ["images/og.png"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -57,11 +58,11 @@ params:
     enabled: false
 
   homeInfoParams:
-    Title: "Best Budget Gaming Gear"
+    Title: "Los Mejores Equipos Gaming Económicos"
     Content: >
-      Welcome to **Budget Gaming Lab**. We review and recommend the best budget-friendly gaming
-      peripherals, PCs, monitors, and accessories. Whether you are building your first gaming rig
-      or upgrading on a budget, we have you covered.
+      Bienvenido a **Budget Gaming Lab**. Analizamos y recomendamos los mejores periféricos,
+      PC, monitores y accesorios gaming con buena relación calidad-precio. Ya sea que estés
+      montando tu primer equipo o actualizando con poco presupuesto, tenemos lo que buscas.
 
   socialIcons:
     - name: email
@@ -74,15 +75,15 @@ taxonomies:
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: Categorías
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: Etiquetas
       url: /tags/
       weight: 20
     - identifier: about
-      name: About
+      name: Acerca de
       url: /about/
       weight: 30
 

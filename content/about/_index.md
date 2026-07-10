@@ -1,17 +1,17 @@
 ---
-title: "About"
-summary: "About Budget Gaming Lab"
+title: "Acerca de"
+summary: "Acerca de Budget Gaming Lab"
 ---
 
-# About Budget Gaming Lab
+# Acerca de Budget Gaming Lab
 
-We're obsessed with finding the best budget gaming gear so you don't have to waste money on overpriced products.
+Nos apasiona encontrar los mejores equipos gaming económicos para que no tengas que gastar dinero en productos sobrevalorados.
 
-Every article is researched, tested, and updated regularly. We cover:
+Cada artículo es investigado, probado y actualizado periódicamente. Cubrimos:
 
-- Gaming mice, keyboards, headsets
-- Monitors & GPUs
-- Budget PC builds
-- Gaming chairs, desks, and accessories
+- Ratones, teclados y auriculares gaming
+- Monitores y GPU
+- Montajes de PC económicos
+- Sillas, mesas y accesorios gaming
 
-**Disclosure:** Some links on this site are affiliate links (Amazon Associates). We may earn a small commission at no extra cost to you.
+**Aviso:** Algunos enlaces en este sitio son enlaces de afiliado (Amazon Associates). Podemos ganar una pequeña comisión sin coste adicional para ti.

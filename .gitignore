@@ -13,3 +13,6 @@ Thumbs.db
 
 # Environment
 .env
+
+# Local backlog (no comitear a GitHub)
+backlog.md

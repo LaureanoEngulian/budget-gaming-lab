@@ -1,5 +1,4 @@
 ---
-title: "Reviews & Guides"
-summary: "Budget gaming gear reviews, comparisons, and buying guides"
+title: "Análisis y Guías"
+summary: "Análisis de equipos gaming económicos, comparativas y guías de compra"
 ---
-
