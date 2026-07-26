@@ -48,11 +48,16 @@ params:
   assets:
     disableHLJS: true
     disableFingerprinting: true
+    favicon: "/favicon.svg"
+    favicon16x16: "/favicon.svg"
+    favicon32x32: "/favicon.svg"
+    apple_touch_icon: "/favicon.svg"
+    safari_pinned_tab: "/favicon.svg"
 
   label:
     text: "Budget Gaming Lab"
-    icon: ""
-    iconHeight: 35
+    icon: "/logo.svg"
+    iconHeight: 28
 
   profileMode:
     enabled: false

@@ -1,0 +1,13 @@
+<div class="product-card">
+    {{ if .Get "badge" }}
+    <div class="product-badge">{{ .Get "badge" }}</div>
+    {{ end }}
+    <h3 id="{{ .Get "name" | urlize }}">{{ .Get "index" }}. {{ .Get "name" }}</h3>
+    <ul class="product-specs">
+        <li><strong>Precio:</strong> {{ .Get "price" }}</li>
+        <li><strong>Especificaciones:</strong> {{ .Get "specs" }}</li>
+        <li><strong>Ventajas:</strong> {{ .Get "pros" }}</li>
+        <li><strong>Desventajas:</strong> {{ .Get "cons" }}</li>
+    </ul>
+    <a class="product-link" href="{{ .Get "link" }}" target="_blank" rel="nofollow sponsored">Ver en Amazon →</a>
+</div>
